@@ -1,0 +1,64 @@
+2026-05-11 14:52:01,245 - INFO - Generating 5 test images for 001...
+2026-05-11 14:52:04,181 - ERROR - Failed to create synthetic face image: OpenCV(4.8.0) D:/a/opencv-python/opencv-python/opencv/modules/imgproc/src/filter.simd.hpp:3047: error: (-213:The function/feature is not implemented) Unsupported combination of source format (=4), and buffer format (=5) in function 'cv::opt_AVX2::getLinearRowFilter'
+
+2026-05-11 14:52:04,181 - ERROR - Failed to generate image 0
+2026-05-11 14:52:07,598 - ERROR - Failed to create synthetic face image: OpenCV(4.8.0) D:/a/opencv-python/opencv-python/opencv/modules/imgproc/src/filter.simd.hpp:3047: error: (-213:The function/feature is not implemented) Unsupported combination of source format (=4), and buffer format (=5) in function 'cv::opt_AVX2::getLinearRowFilter'
+
+2026-05-11 14:52:07,598 - ERROR - Failed to generate image 1
+2026-05-11 14:52:11,247 - ERROR - Failed to create synthetic face image: OpenCV(4.8.0) D:/a/opencv-python/opencv-python/opencv/modules/imgproc/src/filter.simd.hpp:3047: error: (-213:The function/feature is not implemented) Unsupported combination of source format (=4), and buffer format (=5) in function 'cv::opt_AVX2::getLinearRowFilter'
+
+2026-05-11 14:52:11,247 - ERROR - Failed to generate image 2
+2026-05-11 14:52:14,842 - ERROR - Failed to create synthetic face image: OpenCV(4.8.0) D:/a/opencv-python/opencv-python/opencv/modules/imgproc/src/filter.simd.hpp:3047: error: (-213:The function/feature is not implemented) Unsupported combination of source format (=4), and buffer format (=5) in function 'cv::opt_AVX2::getLinearRowFilter'
+
+2026-05-11 14:52:14,842 - ERROR - Failed to generate image 3
+2026-05-11 14:52:17,843 - ERROR - Failed to create synthetic face image: OpenCV(4.8.0) D:/a/opencv-python/opencv-python/opencv/modules/imgproc/src/filter.simd.hpp:3047: error: (-213:The function/feature is not implemented) Unsupported combination of source format (=4), and buffer format (=5) in function 'cv::opt_AVX2::getLinearRowFilter'
+
+2026-05-11 14:52:17,846 - ERROR - Failed to generate image 4
+2026-05-11 14:52:17,848 - INFO - Database generation completed for 001
+2026-05-11 14:52:17,851 - INFO - Generating 2 test images for condition: normal...
+2026-05-11 14:52:20,932 - ERROR - Failed to create synthetic face image: OpenCV(4.8.0) D:/a/opencv-python/opencv-python/opencv/modules/imgproc/src/filter.simd.hpp:3047: error: (-213:The function/feature is not implemented) Unsupported combination of source format (=4), and buffer format (=5) in function 'cv::opt_AVX2::getLinearRowFilter'
+
+2026-05-11 14:52:23,266 - ERROR - Failed to create synthetic face image: OpenCV(4.8.0) D:/a/opencv-python/opencv-python/opencv/modules/imgproc/src/filter.simd.hpp:3047: error: (-213:The function/feature is not implemented) Unsupported combination of source format (=4), and buffer format (=5) in function 'cv::opt_AVX2::getLinearRowFilter'
+
+2026-05-11 14:52:23,266 - INFO - Generating 2 test images for condition: low_light...
+2026-05-11 14:52:25,473 - ERROR - Failed to create synthetic face image: OpenCV(4.8.0) D:/a/opencv-python/opencv-python/opencv/modules/imgproc/src/filter.simd.hpp:3047: error: (-213:The function/feature is not implemented) Unsupported combination of source format (=4), and buffer format (=5) in function 'cv::opt_AVX2::getLinearRowFilter'
+
+2026-05-11 14:52:27,623 - ERROR - Failed to create synthetic face image: OpenCV(4.8.0) D:/a/opencv-python/opencv-python/opencv/modules/imgproc/src/filter.simd.hpp:3047: error: (-213:The function/feature is not implemented) Unsupported combination of source format (=4), and buffer format (=5) in function 'cv::opt_AVX2::getLinearRowFilter'
+
+2026-05-11 14:52:27,623 - INFO - Generating 2 test images for condition: motion_blur...
+2026-05-11 14:52:29,949 - ERROR - Failed to create synthetic face image: OpenCV(4.8.0) D:/a/opencv-python/opencv-python/opencv/modules/imgproc/src/filter.simd.hpp:3047: error: (-213:The function/feature is not implemented) Unsupported combination of source format (=4), and buffer format (=5) in function 'cv::opt_AVX2::getLinearRowFilter'
+
+2026-05-11 14:52:32,870 - ERROR - Failed to create synthetic face image: OpenCV(4.8.0) D:/a/opencv-python/opencv-python/opencv/modules/imgproc/src/filter.simd.hpp:3047: error: (-213:The function/feature is not implemented) Unsupported combination of source format (=4), and buffer format (=5) in function 'cv::opt_AVX2::getLinearRowFilter'
+
+2026-05-11 14:52:32,870 - INFO - Generating 2 test images for condition: sensor_noise...
+2026-05-11 14:52:35,330 - ERROR - Failed to create synthetic face image: OpenCV(4.8.0) D:/a/opencv-python/opencv-python/opencv/modules/imgproc/src/filter.simd.hpp:3047: error: (-213:The function/feature is not implemented) Unsupported combination of source format (=4), and buffer format (=5) in function 'cv::opt_AVX2::getLinearRowFilter'
+
+2026-05-11 14:52:38,008 - ERROR - Failed to create synthetic face image: OpenCV(4.8.0) D:/a/opencv-python/opencv-python/opencv/modules/imgproc/src/filter.simd.hpp:3047: error: (-213:The function/feature is not implemented) Unsupported combination of source format (=4), and buffer format (=5) in function 'cv::opt_AVX2::getLinearRowFilter'
+
+2026-05-11 14:52:38,008 - INFO - Generating 2 test images for condition: extreme_angle...
+2026-05-11 14:52:40,531 - ERROR - Failed to create synthetic face image: OpenCV(4.8.0) D:/a/opencv-python/opencv-python/opencv/modules/imgproc/src/filter.simd.hpp:3047: error: (-213:The function/feature is not implemented) Unsupported combination of source format (=4), and buffer format (=5) in function 'cv::opt_AVX2::getLinearRowFilter'
+
+2026-05-11 14:52:42,973 - ERROR - Failed to create synthetic face image: OpenCV(4.8.0) D:/a/opencv-python/opencv-python/opencv/modules/imgproc/src/filter.simd.hpp:3047: error: (-213:The function/feature is not implemented) Unsupported combination of source format (=4), and buffer format (=5) in function 'cv::opt_AVX2::getLinearRowFilter'
+
+2026-05-11 14:53:49,123 - INFO - Generating 5 test images for 001...
+2026-05-11 14:53:49,184 - INFO - Generated test image: C:\Users\ASUS\Desktop\Statistics\database\reference_images\001\frame_0_20260511_145349.jpg
+2026-05-11 14:53:49,253 - INFO - Generated test image: C:\Users\ASUS\Desktop\Statistics\database\reference_images\001\frame_1_20260511_145349.jpg
+2026-05-11 14:53:49,319 - INFO - Generated test image: C:\Users\ASUS\Desktop\Statistics\database\reference_images\001\frame_2_20260511_145349.jpg
+2026-05-11 14:53:49,386 - INFO - Generated test image: C:\Users\ASUS\Desktop\Statistics\database\reference_images\001\frame_3_20260511_145349.jpg
+2026-05-11 14:53:49,454 - INFO - Generated test image: C:\Users\ASUS\Desktop\Statistics\database\reference_images\001\frame_4_20260511_145349.jpg
+2026-05-11 14:53:49,465 - INFO - Database generation completed for 001
+2026-05-11 14:53:49,466 - INFO - Generating 2 test images for condition: normal...
+2026-05-11 14:53:49,543 - INFO - Generated test image: C:\Users\ASUS\Desktop\Statistics\captured\001\test_normal_0_20260511_145349.jpg
+2026-05-11 14:53:49,617 - INFO - Generated test image: C:\Users\ASUS\Desktop\Statistics\captured\001\test_normal_1_20260511_145349.jpg
+2026-05-11 14:53:49,619 - INFO - Generating 2 test images for condition: low_light...
+2026-05-11 14:53:49,686 - INFO - Generated test image: C:\Users\ASUS\Desktop\Statistics\captured\001\test_low_light_0_20260511_145349.jpg
+2026-05-11 14:53:49,751 - INFO - Generated test image: C:\Users\ASUS\Desktop\Statistics\captured\001\test_low_light_1_20260511_145349.jpg
+2026-05-11 14:53:49,751 - INFO - Generating 2 test images for condition: motion_blur...
+2026-05-11 14:53:49,827 - INFO - Generated test image: C:\Users\ASUS\Desktop\Statistics\captured\001\test_motion_blur_0_20260511_145349.jpg
+2026-05-11 14:53:49,904 - INFO - Generated test image: C:\Users\ASUS\Desktop\Statistics\captured\001\test_motion_blur_1_20260511_145349.jpg
+2026-05-11 14:53:49,904 - INFO - Generating 2 test images for condition: sensor_noise...
+2026-05-11 14:53:50,004 - INFO - Generated test image: C:\Users\ASUS\Desktop\Statistics\captured\001\test_sensor_noise_0_20260511_145349.jpg
+2026-05-11 14:53:50,101 - INFO - Generated test image: C:\Users\ASUS\Desktop\Statistics\captured\001\test_sensor_noise_1_20260511_145350.jpg
+2026-05-11 14:53:50,105 - INFO - Generating 2 test images for condition: extreme_angle...
+2026-05-11 14:53:50,180 - INFO - Generated test image: C:\Users\ASUS\Desktop\Statistics\captured\001\test_extreme_angle_0_20260511_145350.jpg
+2026-05-11 14:53:50,256 - INFO - Generated test image: C:\Users\ASUS\Desktop\Statistics\captured\001\test_extreme_angle_1_20260511_145350.jpg

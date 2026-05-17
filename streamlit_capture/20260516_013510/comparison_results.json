@@ -1,0 +1,43 @@
+{
+  "timestamp": "20260516_013510",
+  "comparisons": [
+    {
+      "image_name": "reference_image1.png",
+      "ref_path": "database\\reference_images\\reference_image1.png",
+      "before": {
+        "ssim_percent": 4.1,
+        "cosine_percent": 66.61,
+        "euclidean_percent": 90.31,
+        "combined_accuracy": 62.73,
+        "face_detected": true
+      },
+      "after": {
+        "ssim_percent": 4.37,
+        "cosine_percent": 72.31,
+        "euclidean_percent": 91.36,
+        "combined_accuracy": 67.42,
+        "face_detected": true
+      },
+      "improvement": 4.69
+    },
+    {
+      "image_name": "reference_image2.jpg",
+      "ref_path": "database\\reference_images\\reference_image2.jpg",
+      "before": {
+        "ssim_percent": 4.0,
+        "cosine_percent": 76.78,
+        "euclidean_percent": 93.58,
+        "combined_accuracy": 71.18,
+        "face_detected": true
+      },
+      "after": {
+        "ssim_percent": 4.19,
+        "cosine_percent": 88.74,
+        "euclidean_percent": 95.83,
+        "combined_accuracy": 80.99,
+        "face_detected": true
+      },
+      "improvement": 9.81
+    }
+  ]
+}

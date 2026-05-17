@@ -1,0 +1,2018 @@
+2026-05-11 14:39:34,287 - INFO - Application started
+2026-05-11 14:39:54,389 - INFO - Application started
+2026-05-11 14:40:49,597 - ERROR - Import error: No module named 'psutil'
+2026-05-11 14:45:17,408 - INFO - Application started
+2026-05-11 14:46:27,522 - INFO - Setting up database for 01
+2026-05-11 14:46:35,909 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-11 14:46:35,909 - INFO - Starting capture for '01' - 1 frames
+2026-05-11 14:46:37,314 - WARNING - No face detected in frame 1
+2026-05-11 14:46:37,890 - INFO - Face saved: C:\Users\ASUS\Desktop\Statistics\captured\captured\frame_0_20260511_144637.jpg
+2026-05-11 14:46:37,900 - INFO - Capture completed: 1 frames saved
+2026-05-11 14:46:38,226 - INFO - Camera released
+2026-05-11 14:46:38,228 - INFO - Database setup completed for 01
+2026-05-11 14:46:38,228 - INFO - Camera released
+2026-05-11 14:46:38,241 - INFO - Database setup completed: 01, 1 samples
+2026-05-11 14:47:31,619 - INFO - Setting up database for 001
+2026-05-11 14:47:39,240 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-11 14:47:39,240 - INFO - Starting capture for '001' - 1 frames
+2026-05-11 14:47:40,290 - INFO - Face saved: C:\Users\ASUS\Desktop\Statistics\captured\captured\frame_0_20260511_144740.jpg
+2026-05-11 14:47:40,295 - INFO - Capture completed: 1 frames saved
+2026-05-11 14:47:40,632 - INFO - Camera released
+2026-05-11 14:47:40,632 - INFO - Database setup completed for 001
+2026-05-11 14:47:40,636 - INFO - Camera released
+2026-05-11 14:47:40,641 - INFO - Database setup completed: 001, 1 samples
+2026-05-11 14:48:03,028 - INFO - ============================================================
+2026-05-11 14:48:03,028 - INFO - STARTING PREPROCESSING TECHNIQUES INVESTIGATION
+2026-05-11 14:48:03,028 - INFO - ============================================================
+2026-05-11 14:48:03,028 - ERROR - Reference images not found for p1
+2026-05-11 14:48:03,028 - INFO - Please run database capture first
+2026-05-11 14:48:03,028 - ERROR - Preprocessing pipeline failed
+2026-05-11 14:48:32,565 - INFO - ============================================================
+2026-05-11 14:48:32,565 - INFO - STARTING PREPROCESSING TECHNIQUES INVESTIGATION
+2026-05-11 14:48:32,565 - INFO - ============================================================
+2026-05-11 14:48:32,565 - ERROR - No valid reference images found
+2026-05-11 14:48:32,565 - ERROR - Preprocessing pipeline failed
+2026-05-11 14:48:56,157 - INFO - ============================================================
+2026-05-11 14:48:56,157 - INFO - STARTING PREPROCESSING TECHNIQUES INVESTIGATION
+2026-05-11 14:48:56,157 - INFO - ============================================================
+2026-05-11 14:48:56,157 - ERROR - No valid reference images found
+2026-05-11 14:48:56,157 - ERROR - Preprocessing pipeline failed
+2026-05-11 14:50:03,130 - INFO - Setting up database for 001
+2026-05-11 14:50:14,301 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-11 14:50:14,303 - INFO - Starting capture for '001' - 5 frames
+2026-05-11 14:50:15,426 - WARNING - No face detected in frame 1
+2026-05-11 14:50:15,964 - WARNING - No face detected in frame 1
+2026-05-11 14:50:16,501 - WARNING - No face detected in frame 1
+2026-05-11 14:50:17,036 - WARNING - No face detected in frame 1
+2026-05-11 14:50:17,598 - WARNING - No face detected in frame 1
+2026-05-11 14:50:18,135 - WARNING - No face detected in frame 1
+2026-05-11 14:50:18,706 - WARNING - No face detected in frame 1
+2026-05-11 14:50:19,253 - WARNING - No face detected in frame 1
+2026-05-11 14:50:19,799 - WARNING - No face detected in frame 1
+2026-05-11 14:50:20,331 - WARNING - No face detected in frame 1
+2026-05-11 14:50:20,875 - WARNING - No face detected in frame 1
+2026-05-11 14:50:21,420 - WARNING - No face detected in frame 1
+2026-05-11 14:50:21,954 - WARNING - No face detected in frame 1
+2026-05-11 14:50:22,518 - WARNING - No face detected in frame 1
+2026-05-11 14:50:23,051 - WARNING - No face detected in frame 1
+2026-05-11 14:50:23,596 - WARNING - No face detected in frame 1
+2026-05-11 14:50:24,145 - WARNING - No face detected in frame 1
+2026-05-11 14:50:24,707 - WARNING - No face detected in frame 1
+2026-05-11 14:50:25,272 - WARNING - No face detected in frame 1
+2026-05-11 14:50:25,833 - WARNING - No face detected in frame 1
+2026-05-11 14:50:26,386 - WARNING - No face detected in frame 1
+2026-05-11 14:50:26,955 - WARNING - No face detected in frame 1
+2026-05-11 14:50:27,489 - WARNING - No face detected in frame 1
+2026-05-11 14:50:28,049 - WARNING - No face detected in frame 1
+2026-05-11 14:50:28,592 - WARNING - No face detected in frame 1
+2026-05-11 14:50:29,156 - WARNING - No face detected in frame 1
+2026-05-11 14:50:29,692 - WARNING - No face detected in frame 1
+2026-05-11 14:50:30,252 - WARNING - No face detected in frame 1
+2026-05-11 14:50:30,798 - WARNING - No face detected in frame 1
+2026-05-11 14:50:31,343 - WARNING - No face detected in frame 1
+2026-05-11 14:50:31,901 - WARNING - No face detected in frame 1
+2026-05-11 14:50:32,444 - WARNING - No face detected in frame 1
+2026-05-11 14:50:33,003 - WARNING - No face detected in frame 1
+2026-05-11 14:50:33,543 - WARNING - No face detected in frame 1
+2026-05-11 14:50:34,102 - WARNING - No face detected in frame 1
+2026-05-11 14:50:34,643 - WARNING - No face detected in frame 1
+2026-05-11 14:50:35,189 - WARNING - No face detected in frame 1
+2026-05-11 14:50:35,728 - WARNING - No face detected in frame 1
+2026-05-11 14:50:36,292 - WARNING - No face detected in frame 1
+2026-05-11 14:50:36,846 - WARNING - No face detected in frame 1
+2026-05-11 14:50:37,400 - WARNING - No face detected in frame 1
+2026-05-11 14:50:37,973 - WARNING - No face detected in frame 1
+2026-05-11 14:50:38,510 - WARNING - No face detected in frame 1
+2026-05-11 14:50:39,068 - WARNING - No face detected in frame 1
+2026-05-11 14:50:39,620 - WARNING - No face detected in frame 1
+2026-05-11 14:50:40,186 - WARNING - No face detected in frame 1
+2026-05-11 14:50:40,736 - WARNING - No face detected in frame 1
+2026-05-11 14:50:41,283 - WARNING - No face detected in frame 1
+2026-05-11 14:50:41,834 - WARNING - No face detected in frame 1
+2026-05-11 14:50:42,370 - WARNING - No face detected in frame 1
+2026-05-11 14:50:42,909 - WARNING - No face detected in frame 1
+2026-05-11 14:50:43,443 - WARNING - No face detected in frame 1
+2026-05-11 14:50:44,008 - WARNING - No face detected in frame 1
+2026-05-11 14:50:44,574 - WARNING - No face detected in frame 1
+2026-05-11 14:50:45,136 - WARNING - No face detected in frame 1
+2026-05-11 14:50:45,688 - WARNING - No face detected in frame 1
+2026-05-11 14:50:46,245 - WARNING - No face detected in frame 1
+2026-05-11 14:50:46,802 - WARNING - No face detected in frame 1
+2026-05-11 14:50:47,336 - WARNING - No face detected in frame 1
+2026-05-11 14:50:47,892 - WARNING - No face detected in frame 1
+2026-05-11 14:50:48,455 - WARNING - No face detected in frame 1
+2026-05-11 14:50:49,022 - WARNING - No face detected in frame 1
+2026-05-11 14:50:49,557 - WARNING - No face detected in frame 1
+2026-05-11 14:50:50,118 - WARNING - No face detected in frame 1
+2026-05-11 14:50:50,655 - WARNING - No face detected in frame 1
+2026-05-11 14:50:51,222 - WARNING - No face detected in frame 1
+2026-05-11 14:50:51,774 - WARNING - No face detected in frame 1
+2026-05-11 14:50:52,339 - WARNING - No face detected in frame 1
+2026-05-11 14:50:52,898 - WARNING - No face detected in frame 1
+2026-05-11 14:50:53,435 - WARNING - No face detected in frame 1
+2026-05-11 14:50:53,984 - WARNING - No face detected in frame 1
+2026-05-11 14:50:54,539 - WARNING - No face detected in frame 1
+2026-05-11 14:50:55,105 - WARNING - No face detected in frame 1
+2026-05-11 14:50:55,645 - WARNING - No face detected in frame 1
+2026-05-11 14:50:56,203 - WARNING - No face detected in frame 1
+2026-05-11 14:50:56,751 - WARNING - No face detected in frame 1
+2026-05-11 14:50:57,284 - WARNING - No face detected in frame 1
+2026-05-11 14:50:57,820 - WARNING - No face detected in frame 1
+2026-05-11 14:50:58,370 - WARNING - No face detected in frame 1
+2026-05-11 14:50:58,924 - WARNING - No face detected in frame 1
+2026-05-11 14:50:59,457 - WARNING - No face detected in frame 1
+2026-05-11 14:51:00,023 - WARNING - No face detected in frame 1
+2026-05-11 14:51:00,565 - WARNING - No face detected in frame 1
+2026-05-11 14:51:01,120 - WARNING - No face detected in frame 1
+2026-05-11 14:51:01,654 - WARNING - No face detected in frame 1
+2026-05-11 14:51:02,187 - WARNING - No face detected in frame 1
+2026-05-11 14:51:02,721 - WARNING - No face detected in frame 1
+2026-05-11 14:51:03,273 - WARNING - No face detected in frame 1
+2026-05-11 14:51:03,820 - WARNING - No face detected in frame 1
+2026-05-11 14:51:04,355 - WARNING - No face detected in frame 1
+2026-05-11 14:51:04,904 - WARNING - No face detected in frame 1
+2026-05-11 14:51:05,457 - WARNING - No face detected in frame 1
+2026-05-11 14:51:06,009 - WARNING - No face detected in frame 1
+2026-05-11 14:51:06,554 - WARNING - No face detected in frame 1
+2026-05-11 14:51:07,092 - WARNING - No face detected in frame 1
+2026-05-11 14:51:07,626 - WARNING - No face detected in frame 1
+2026-05-11 14:51:08,175 - WARNING - No face detected in frame 1
+2026-05-11 14:51:08,716 - WARNING - No face detected in frame 1
+2026-05-11 14:51:09,250 - WARNING - No face detected in frame 1
+2026-05-11 14:51:09,803 - WARNING - No face detected in frame 1
+2026-05-11 14:51:10,337 - WARNING - No face detected in frame 1
+2026-05-11 14:51:10,887 - WARNING - No face detected in frame 1
+2026-05-11 14:51:11,423 - WARNING - No face detected in frame 1
+2026-05-11 14:51:11,971 - WARNING - No face detected in frame 1
+2026-05-11 14:51:12,518 - WARNING - No face detected in frame 1
+2026-05-11 14:51:13,053 - WARNING - No face detected in frame 1
+2026-05-11 14:51:13,587 - WARNING - No face detected in frame 1
+2026-05-11 14:51:14,119 - WARNING - No face detected in frame 1
+2026-05-11 14:51:14,656 - WARNING - No face detected in frame 1
+2026-05-11 14:51:15,200 - WARNING - No face detected in frame 1
+2026-05-11 14:51:15,738 - WARNING - No face detected in frame 1
+2026-05-11 14:51:16,272 - WARNING - No face detected in frame 1
+2026-05-11 14:51:16,818 - WARNING - No face detected in frame 1
+2026-05-11 14:51:17,353 - WARNING - No face detected in frame 1
+2026-05-11 14:51:17,897 - WARNING - No face detected in frame 1
+2026-05-11 14:51:18,456 - WARNING - No face detected in frame 1
+2026-05-11 14:51:18,994 - WARNING - No face detected in frame 1
+2026-05-11 14:51:19,528 - WARNING - No face detected in frame 1
+2026-05-11 14:51:20,089 - WARNING - No face detected in frame 1
+2026-05-11 14:51:20,627 - WARNING - No face detected in frame 1
+2026-05-11 14:51:21,188 - WARNING - No face detected in frame 1
+2026-05-11 14:51:21,721 - WARNING - No face detected in frame 1
+2026-05-11 14:51:22,271 - WARNING - No face detected in frame 1
+2026-05-11 14:51:22,813 - WARNING - No face detected in frame 1
+2026-05-11 14:51:23,348 - WARNING - No face detected in frame 1
+2026-05-11 14:51:23,895 - WARNING - No face detected in frame 1
+2026-05-11 14:51:24,443 - WARNING - No face detected in frame 1
+2026-05-11 14:51:24,979 - WARNING - No face detected in frame 1
+2026-05-11 14:51:25,521 - WARNING - No face detected in frame 1
+2026-05-11 14:51:26,091 - WARNING - No face detected in frame 1
+2026-05-11 14:51:26,640 - WARNING - No face detected in frame 1
+2026-05-11 14:51:27,188 - WARNING - No face detected in frame 1
+2026-05-11 14:51:27,720 - WARNING - No face detected in frame 1
+2026-05-11 14:51:28,273 - WARNING - No face detected in frame 1
+2026-05-11 14:51:28,819 - WARNING - No face detected in frame 1
+2026-05-11 14:51:29,391 - WARNING - No face detected in frame 1
+2026-05-11 14:51:29,957 - WARNING - No face detected in frame 1
+2026-05-11 14:51:30,497 - WARNING - No face detected in frame 1
+2026-05-11 14:51:31,060 - WARNING - No face detected in frame 1
+2026-05-11 14:51:31,604 - WARNING - No face detected in frame 1
+2026-05-11 14:51:32,135 - WARNING - No face detected in frame 1
+2026-05-11 14:51:32,681 - WARNING - No face detected in frame 1
+2026-05-11 14:53:55,119 - INFO - Application started
+2026-05-11 14:57:33,610 - INFO - Setting up database for 001
+2026-05-11 14:57:41,131 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-11 14:57:41,131 - INFO - Starting capture for '001' - 1 frames
+2026-05-11 14:57:42,093 - INFO - Face saved: C:\Users\ASUS\Desktop\Statistics\captured\captured\frame_0_20260511_145742.jpg
+2026-05-11 14:57:42,104 - INFO - Capture completed: 1 frames saved
+2026-05-11 14:57:42,451 - INFO - Camera released
+2026-05-11 14:57:42,480 - INFO - Database setup completed for 001
+2026-05-11 14:57:42,480 - INFO - Camera released
+2026-05-11 14:57:42,484 - INFO - Database setup completed: 001, 1 samples
+2026-05-11 14:58:02,461 - INFO - ============================================================
+2026-05-11 14:58:02,461 - INFO - STARTING PREPROCESSING TECHNIQUES INVESTIGATION
+2026-05-11 14:58:02,461 - INFO - ============================================================
+2026-05-11 14:58:02,566 - INFO - Loaded 15 reference images
+2026-05-11 14:58:11,019 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-11 14:58:11,019 - INFO - Starting live preview for 3 seconds
+2026-05-11 14:58:14,047 - INFO - Live preview ended
+2026-05-11 14:58:14,373 - INFO - Camera released
+2026-05-11 14:58:14,375 - INFO - Test frame captured successfully
+2026-05-11 14:58:14,375 - INFO - 
+Testing preprocessing techniques...
+2026-05-11 14:58:14,376 - INFO - ------------------------------------------------------------
+2026-05-11 14:58:14,376 - INFO - 
+Condition: normal
+2026-05-11 14:58:14,376 - INFO - Description: Normal lighting and angle
+2026-05-11 14:58:14,486 - INFO - Monitoring started - Memory: 169.97MB, CPU: 0.00%
+2026-05-11 14:58:14,516 - INFO - Normal preprocessing completed
+2026-05-11 14:58:14,718 - INFO - Monitoring stopped - Time: 0.24s, Memory: -10.18MB, CPU: 0.00%
+2026-05-11 14:58:14,718 - INFO - Preprocessing - normal completed in 240.42ms
+2026-05-11 14:58:14,718 - INFO - Accuracy: 4.64%
+2026-05-11 14:58:14,718 - INFO - Comparisons: 15
+2026-05-11 14:58:14,718 - INFO - 
+Condition: low_light
+2026-05-11 14:58:14,718 - INFO - Description: Low lighting conditions (simulate with gamma)
+2026-05-11 14:58:14,820 - INFO - Monitoring started - Memory: 159.80MB, CPU: 0.00%
+2026-05-11 14:58:14,953 - INFO - Low light preprocessing completed
+2026-05-11 14:58:15,112 - INFO - Monitoring stopped - Time: 0.29s, Memory: 3.52MB, CPU: 0.00%
+2026-05-11 14:58:15,112 - INFO - Preprocessing - low_light completed in 293.35ms
+2026-05-11 14:58:15,112 - INFO - Accuracy: 4.41%
+2026-05-11 14:58:15,112 - INFO - Comparisons: 15
+2026-05-11 14:58:15,112 - INFO - 
+Condition: motion_blur
+2026-05-11 14:58:15,112 - INFO - Description: Motion blur simulation
+2026-05-11 14:58:15,214 - INFO - Monitoring started - Memory: 163.32MB, CPU: 0.00%
+2026-05-11 14:58:15,234 - INFO - Motion blur preprocessing completed
+2026-05-11 14:58:15,394 - INFO - Monitoring stopped - Time: 0.18s, Memory: 1.21MB, CPU: 0.00%
+2026-05-11 14:58:15,394 - INFO - Preprocessing - motion_blur completed in 178.01ms
+2026-05-11 14:58:15,394 - INFO - Accuracy: 4.70%
+2026-05-11 14:58:15,394 - INFO - Comparisons: 15
+2026-05-11 14:58:15,394 - INFO - 
+Condition: sensor_noise
+2026-05-11 14:58:15,394 - INFO - Description: High sensor noise simulation
+2026-05-11 14:58:15,496 - INFO - Monitoring started - Memory: 162.77MB, CPU: 0.00%
+2026-05-11 14:58:15,498 - ERROR - Non-local means denoising failed: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'fastNlMeansDenoisingColored'
+> Overload resolution failed:
+>  - 'hForColorComponents' is an invalid keyword argument for fastNlMeansDenoisingColored()
+>  - 'hForColorComponents' is an invalid keyword argument for fastNlMeansDenoisingColored()
+
+2026-05-11 14:58:15,504 - INFO - Sensor noise preprocessing completed
+2026-05-11 14:58:15,664 - INFO - Monitoring stopped - Time: 0.17s, Memory: 0.95MB, CPU: 0.00%
+2026-05-11 14:58:15,664 - INFO - Preprocessing - sensor_noise completed in 167.59ms
+2026-05-11 14:58:15,664 - INFO - Accuracy: 5.15%
+2026-05-11 14:58:15,664 - INFO - Comparisons: 15
+2026-05-11 14:58:15,664 - INFO - 
+Condition: extreme_angle
+2026-05-11 14:58:15,664 - INFO - Description: Extreme face angle
+2026-05-11 14:58:15,766 - INFO - Monitoring started - Memory: 163.72MB, CPU: 0.00%
+2026-05-11 14:58:15,795 - INFO - Extreme angle preprocessing completed
+2026-05-11 14:58:15,953 - INFO - Monitoring stopped - Time: 0.19s, Memory: 0.98MB, CPU: 0.00%
+2026-05-11 14:58:15,953 - INFO - Preprocessing - extreme_angle completed in 187.40ms
+2026-05-11 14:58:15,953 - INFO - Accuracy: 4.71%
+2026-05-11 14:58:15,953 - INFO - Comparisons: 15
+2026-05-11 14:58:15,953 - INFO - 
+============================================================
+2026-05-11 14:58:15,953 - INFO - INVESTIGATION COMPLETED
+2026-05-11 14:58:15,953 - INFO - ============================================================
+2026-05-11 14:58:15,953 - ERROR - Failed to save results: Object of type float32 is not JSON serializable
+2026-05-11 14:58:15,963 - INFO - Camera released
+2026-05-11 14:58:15,965 - INFO - Preprocessing pipeline completed successfully
+2026-05-11 15:15:12,359 - INFO - Application started
+2026-05-11 15:15:39,675 - INFO - ======================================================================
+2026-05-11 15:15:39,675 - INFO - PREPROCESSING BEFORE/AFTER INVESTIGATION
+2026-05-11 15:15:39,675 - INFO - ======================================================================
+2026-05-11 15:15:39,675 - INFO - 
+[Step 1] Loading reference face from database...
+2026-05-11 15:15:39,698 - INFO -   Shape: (178, 178, 3)
+2026-05-11 15:15:39,698 - INFO - 
+[Step 2] Capturing your face from camera...
+2026-05-11 15:15:39,698 - INFO - 
+======================================================================
+2026-05-11 15:15:39,698 - INFO - CAPTURING YOUR FACE
+2026-05-11 15:15:39,698 - INFO - ======================================================================
+2026-05-11 15:15:39,698 - INFO - Position your face in front of the camera...
+2026-05-11 15:15:39,699 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-11 15:15:48,789 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-11 15:15:52,199 - INFO - Capture cancelled
+2026-05-11 15:15:52,521 - INFO - Camera released
+2026-05-11 15:15:52,521 - INFO - Camera released
+2026-05-11 15:15:52,526 - ERROR - Preprocessing pipeline failed
+2026-05-11 15:17:42,415 - INFO - Application started
+2026-05-11 15:17:54,133 - ERROR - Import error: No module named 'cv2'
+2026-05-11 15:18:14,261 - ERROR - Import error: No module named 'cv2'
+2026-05-11 15:18:15,578 - ERROR - Import error: No module named 'cv2'
+2026-05-11 15:18:16,661 - ERROR - Import error: No module named 'cv2'
+2026-05-11 15:18:20,071 - ERROR - Import error: No module named 'cv2'
+2026-05-11 15:33:50,520 - INFO - Application started
+2026-05-11 15:34:01,086 - INFO - ======================================================================
+2026-05-11 15:34:01,088 - INFO - PREPROCESSING BEFORE/AFTER INVESTIGATION
+2026-05-11 15:34:01,088 - INFO - ======================================================================
+2026-05-11 15:34:01,088 - INFO - 
+[Step 1] Loading reference face from database...
+2026-05-11 15:34:01,101 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-11 15:34:01,101 - INFO -   Shape: (178, 178, 3)
+2026-05-11 15:34:01,101 - INFO - 
+[Step 2] Capturing your face from camera...
+2026-05-11 15:34:01,101 - INFO - 
+======================================================================
+2026-05-11 15:34:01,101 - INFO - CAPTURING YOUR FACE
+2026-05-11 15:34:01,101 - INFO - ======================================================================
+2026-05-11 15:34:01,101 - INFO - Position your face in front of the camera...
+2026-05-11 15:34:01,101 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-11 15:34:16,217 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-11 15:34:22,691 - INFO - [OK] Face captured!
+2026-05-11 15:34:23,002 - INFO - Camera released
+2026-05-11 15:34:23,003 - INFO - Camera released
+2026-05-11 15:34:23,006 - INFO - [OK] Created capture folder: C:\Users\ASUS\Desktop\Statistics\captured\20260511_153401
+2026-05-11 15:34:23,006 - INFO - 
+[Step 3] Saving BEFORE preprocessed face...
+2026-05-11 15:34:23,018 - INFO - [OK] Saved: C:\Users\ASUS\Desktop\Statistics\captured\20260511_153401\01_before_preprocessing.jpg
+2026-05-11 15:34:23,018 - INFO - 
+[Step 4] Applying preprocessing techniques...
+2026-05-11 15:34:23,034 - INFO - Normal preprocessing completed
+2026-05-11 15:34:23,034 - INFO - [OK] Preprocessing applied
+2026-05-11 15:34:23,036 - INFO - 
+[Step 5] Saving AFTER preprocessed face...
+2026-05-11 15:34:23,047 - INFO - [OK] Saved: C:\Users\ASUS\Desktop\Statistics\captured\20260511_153401\02_after_preprocessing.jpg
+2026-05-11 15:34:23,048 - INFO - 
+[Step 6] Comparing BEFORE vs Reference Face...
+2026-05-11 15:34:23,048 - INFO - ----------------------------------------------------------------------
+2026-05-11 15:34:23,048 - INFO - 
+BEFORE Comparison Scores:
+2026-05-11 15:34:23,050 - INFO -   SSIM Similarity:        3.3413 (higher is better)
+2026-05-11 15:34:23,050 - INFO -   Cosine Similarity:      0.0000 (0-1 scale)
+2026-05-11 15:34:23,051 - INFO -   Euclidean Distance:     3161.92 (lower is better)
+2026-05-11 15:34:23,051 - INFO - 
+[Step 7] Comparing AFTER vs Reference Face...
+2026-05-11 15:34:23,051 - INFO - ----------------------------------------------------------------------
+2026-05-11 15:34:23,051 - INFO - 
+AFTER Comparison Scores:
+2026-05-11 15:34:23,053 - INFO -   SSIM Similarity:        3.4998 (higher is better)
+2026-05-11 15:34:23,053 - INFO -   Cosine Similarity:      0.0000 (0-1 scale)
+2026-05-11 15:34:23,053 - INFO -   Euclidean Distance:     3177.34 (lower is better)
+2026-05-11 15:34:23,054 - INFO - 
+[Improvement Analysis]
+2026-05-11 15:34:23,054 - INFO - ----------------------------------------------------------------------
+2026-05-11 15:34:23,054 - INFO - SSIM Improvement:       +4.74%
+2026-05-11 15:34:23,054 - INFO - Cosine Similarity Improvement: -64.74%
+2026-05-11 15:34:23,054 - INFO - 
+[Step 8] Displaying visual comparison...
+2026-05-11 15:34:23,054 - INFO - ----------------------------------------------------------------------
+2026-05-11 15:34:23,076 - INFO - Displaying comparison. Press any key to close...
+2026-05-11 15:34:34,807 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\Statistics\captured\20260511_153401\comparison_results.json
+2026-05-11 15:34:34,807 - INFO - 
+======================================================================
+2026-05-11 15:34:34,810 - INFO - INVESTIGATION COMPLETED SUCCESSFULLY!
+2026-05-11 15:34:34,810 - INFO - ======================================================================
+2026-05-11 15:34:34,811 - INFO - Results saved in: C:\Users\ASUS\Desktop\Statistics\captured\20260511_153401
+2026-05-11 15:34:34,812 - INFO -   [OK] 01_before_preprocessing.jpg
+2026-05-11 15:34:34,812 - INFO -   [OK] 02_after_preprocessing.jpg
+2026-05-11 15:34:34,812 - INFO -   [OK] comparison_results.json
+2026-05-11 15:34:34,814 - INFO - Preprocessing pipeline completed successfully
+2026-05-11 15:43:04,246 - INFO - Application started
+2026-05-11 15:43:30,863 - INFO - Application started
+2026-05-11 15:44:20,002 - ERROR - Preprocessing pipeline error: No module named 'cv2'
+2026-05-11 15:44:32,872 - ERROR - Preprocessing pipeline error: No module named 'cv2'
+2026-05-11 15:44:49,025 - INFO - Application closed
+2026-05-11 15:45:26,970 - INFO - Application started
+2026-05-11 15:45:41,598 - ERROR - Preprocessing pipeline error: No module named 'config'
+2026-05-11 15:46:18,302 - ERROR - Preprocessing pipeline error: No module named 'config'
+2026-05-11 15:46:52,540 - ERROR - Preprocessing pipeline error: No module named 'config'
+2026-05-11 15:47:48,746 - ERROR - Sample face not found at C:\Users\ASUS\Desktop\Statistics\src\core\database\reference_images\sample_person.png
+2026-05-11 15:47:48,747 - ERROR - Preprocessing pipeline failed
+2026-05-11 15:48:10,560 - ERROR - Sample face not found at C:\Users\ASUS\Desktop\Statistics\src\core\database\reference_images\sample_person.png
+2026-05-11 15:48:10,562 - ERROR - Preprocessing pipeline failed
+2026-05-11 15:48:22,538 - INFO - Application closed
+2026-05-11 15:48:50,604 - INFO - Application started
+2026-05-11 15:48:57,183 - ERROR - Preprocessing pipeline error: No module named 'cv2'
+2026-05-11 15:48:57,299 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-11 15:48:57,300 - INFO -   Shape: (178, 178, 3)
+2026-05-11 15:48:57,300 - INFO - 
+======================================================================
+2026-05-11 15:48:57,300 - INFO - CAPTURING YOUR FACE
+2026-05-11 15:48:57,302 - INFO - ======================================================================
+2026-05-11 15:48:57,302 - INFO - Position your face in front of the camera...
+2026-05-11 15:48:57,302 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-11 15:49:11,188 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-11 15:49:17,253 - INFO - [OK] Face captured!
+2026-05-11 15:49:17,565 - INFO - Camera released
+2026-05-11 15:49:17,569 - INFO - Camera released
+2026-05-11 15:49:17,604 - INFO - Normal preprocessing completed
+2026-05-11 15:49:17,697 - INFO - Displaying comparison. Press any key to close...
+2026-05-11 15:49:21,837 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\Statistics\captured\20260511_154857\comparison_results.json
+2026-05-11 15:49:21,845 - INFO - Preprocessing pipeline completed
+2026-05-11 15:49:27,997 - INFO - Application closed
+2026-05-11 15:49:30,579 - INFO - System Info - CPU: 100.00%, Memory: 56.50%
+2026-05-11 15:49:56,621 - ERROR - Statistical analysis error: No module named 'statistical_tests'
+2026-05-11 15:50:40,896 - INFO - Application started
+2026-05-11 15:50:43,786 - ERROR - Preprocessing pipeline error: No module named 'cv2'
+2026-05-11 15:57:49,779 - INFO - Application started
+2026-05-11 15:57:54,166 - ERROR - Models pipeline error: No module named 'camera_utils'
+2026-05-11 16:05:20,987 - INFO - Application started
+2026-05-11 16:05:26,798 - ERROR - Models pipeline error: numpy.core.multiarray failed to import
+2026-05-11 16:06:02,586 - ERROR - Preprocessing pipeline error: numpy.core.multiarray failed to import
+2026-05-11 16:07:29,665 - INFO - Application closed
+2026-05-11 16:10:26,179 - INFO - Application started
+2026-05-11 16:10:29,103 - ERROR - System info error: No module named 'numpy'
+2026-05-11 16:10:43,061 - INFO - Application closed
+2026-05-11 16:11:15,300 - INFO - Application started
+2026-05-11 16:11:20,002 - INFO - System Info - CPU: 100.00%, Memory: 58.50%
+2026-05-11 16:11:28,779 - ERROR - Preprocessing pipeline error: No module named 'scipy'
+2026-05-11 16:11:37,977 - INFO - Application interrupted by user
+2026-05-11 16:13:30,361 - INFO - Application started
+2026-05-11 16:13:34,574 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-11 16:13:34,574 - INFO -   Shape: (178, 178, 3)
+2026-05-11 16:13:34,575 - INFO - 
+======================================================================
+2026-05-11 16:13:34,575 - INFO - CAPTURING YOUR FACE
+2026-05-11 16:13:34,575 - INFO - ======================================================================
+2026-05-11 16:13:34,576 - INFO - Position your face in front of the camera...
+2026-05-11 16:13:34,576 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-11 16:13:46,301 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-11 16:13:52,101 - INFO - [OK] Face captured!
+2026-05-11 16:13:52,454 - INFO - Camera released
+2026-05-11 16:13:52,457 - INFO - Camera released
+2026-05-11 16:13:52,487 - INFO - Normal preprocessing completed
+2026-05-11 16:13:52,528 - INFO - Displaying comparison. Press any key to close...
+2026-05-11 16:13:56,651 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\Statistics\captured\20260511_161334\comparison_results.json
+2026-05-11 16:13:56,656 - INFO - Preprocessing pipeline completed
+2026-05-11 16:17:30,430 - INFO - Application closed
+2026-05-11 16:24:20,516 - INFO - Application started
+2026-05-11 16:24:23,649 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-11 16:24:23,649 - INFO -   Shape: (178, 178, 3)
+2026-05-11 16:24:23,651 - INFO - 
+======================================================================
+2026-05-11 16:24:23,651 - INFO - CAPTURING YOUR FACE
+2026-05-11 16:24:23,651 - INFO - ======================================================================
+2026-05-11 16:24:23,651 - INFO - Position your face in front of the camera...
+2026-05-11 16:24:23,651 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-11 16:24:36,360 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-11 16:24:45,521 - INFO - [OK] Face captured!
+2026-05-11 16:24:45,861 - INFO - Camera released
+2026-05-11 16:24:45,863 - INFO - Camera released
+2026-05-11 16:24:45,878 - INFO - Normal preprocessing completed
+2026-05-11 16:24:45,919 - INFO - Displaying comparison. Press any key to close...
+2026-05-11 16:24:58,334 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\Statistics\captured\20260511_162423\comparison_results.json
+2026-05-11 16:24:58,338 - INFO - Preprocessing pipeline completed
+2026-05-11 16:32:02,998 - INFO - Application closed
+2026-05-11 16:32:05,134 - INFO - Application started
+2026-05-11 16:32:07,290 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-11 16:32:07,290 - INFO -   Shape: (178, 178, 3)
+2026-05-11 16:32:07,290 - INFO - 
+======================================================================
+2026-05-11 16:32:07,292 - INFO - CAPTURING YOUR FACE
+2026-05-11 16:32:07,292 - INFO - ======================================================================
+2026-05-11 16:32:07,292 - INFO - Position your face in front of the camera...
+2026-05-11 16:32:07,292 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-11 16:32:21,229 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-11 16:32:36,647 - INFO - [OK] Face captured!
+2026-05-11 16:32:36,987 - INFO - Camera released
+2026-05-11 16:32:36,987 - INFO - Camera released
+2026-05-11 16:32:37,024 - INFO - Normal preprocessing completed
+2026-05-11 16:32:37,084 - INFO - Displaying comparison. Press any key to close...
+2026-05-11 16:32:59,159 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\Statistics\captured\20260511_163207\comparison_results.json
+2026-05-11 16:32:59,165 - INFO - Preprocessing pipeline completed
+2026-05-11 16:39:37,592 - INFO - Application closed
+2026-05-11 16:42:03,233 - INFO - Application started
+2026-05-11 16:42:04,444 - ERROR - Preprocessing pipeline error: unindent does not match any outer indentation level (run_preprocessing_with_capture.py, line 137)
+2026-05-11 16:42:17,822 - INFO - Application closed
+2026-05-11 16:43:03,829 - INFO - Application started
+2026-05-11 16:43:04,811 - ERROR - Preprocessing pipeline error: unindent does not match any outer indentation level (run_preprocessing_with_capture.py, line 127)
+2026-05-11 16:43:53,090 - INFO - Application closed
+2026-05-11 16:44:41,121 - INFO - Application started
+2026-05-11 16:44:42,469 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-11 16:44:42,469 - INFO -   Shape: (178, 178, 3)
+2026-05-11 16:44:42,469 - INFO - 
+======================================================================
+2026-05-11 16:44:42,469 - INFO - CAPTURING YOUR FACE
+2026-05-11 16:44:42,469 - INFO - ======================================================================
+2026-05-11 16:44:42,469 - INFO - Position your face in front of the camera...
+2026-05-11 16:44:42,469 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-11 16:44:51,034 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-11 16:45:19,528 - INFO - [OK] Face captured!
+2026-05-11 16:45:19,866 - INFO - Camera released
+2026-05-11 16:45:19,867 - INFO - Camera released
+2026-05-11 16:45:19,891 - INFO - Normal preprocessing completed
+2026-05-11 16:45:19,898 - ERROR - Error comparing images: 'AccuracyCalculator' object has no attribute 'feature_vector_extraction'
+2026-05-11 16:45:19,904 - ERROR - Error comparing images: 'AccuracyCalculator' object has no attribute 'feature_vector_extraction'
+2026-05-11 16:45:19,932 - INFO - Displaying comparison. Press any key to close...
+2026-05-11 16:45:31,284 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\Statistics\captured\20260511_164442\comparison_results.json
+2026-05-11 16:45:31,299 - INFO - Preprocessing pipeline completed
+2026-05-11 16:46:59,135 - INFO - Application closed
+2026-05-11 16:47:20,020 - INFO - Application started
+2026-05-11 16:47:22,343 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-11 16:47:22,343 - INFO -   Shape: (178, 178, 3)
+2026-05-11 16:47:22,343 - INFO - 
+======================================================================
+2026-05-11 16:47:22,343 - INFO - CAPTURING YOUR FACE
+2026-05-11 16:47:22,343 - INFO - ======================================================================
+2026-05-11 16:47:22,343 - INFO - Position your face in front of the camera...
+2026-05-11 16:47:22,343 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-11 16:47:30,795 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-11 16:47:37,268 - INFO - [OK] Face captured!
+2026-05-11 16:47:37,617 - INFO - Camera released
+2026-05-11 16:47:37,617 - INFO - Camera released
+2026-05-11 16:47:37,645 - INFO - Normal preprocessing completed
+2026-05-11 16:47:37,685 - INFO - Displaying comparison. Press any key to close...
+2026-05-11 16:47:54,869 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\Statistics\captured\20260511_164722\comparison_results.json
+2026-05-11 16:47:54,872 - INFO - Preprocessing pipeline completed
+2026-05-11 16:49:57,447 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-11 16:49:57,447 - INFO -   Shape: (178, 178, 3)
+2026-05-11 16:49:57,447 - INFO - 
+======================================================================
+2026-05-11 16:49:57,447 - INFO - CAPTURING YOUR FACE
+2026-05-11 16:49:57,447 - INFO - ======================================================================
+2026-05-11 16:49:57,447 - INFO - Position your face in front of the camera...
+2026-05-11 16:49:57,447 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-11 16:50:05,261 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-11 16:50:19,080 - INFO - [OK] Face captured!
+2026-05-11 16:50:19,418 - INFO - Camera released
+2026-05-11 16:50:19,421 - INFO - Camera released
+2026-05-11 16:50:19,440 - INFO - Normal preprocessing completed
+2026-05-11 16:50:19,481 - INFO - Displaying comparison. Press any key to close...
+2026-05-11 16:50:23,523 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\Statistics\captured\20260511_164957\comparison_results.json
+2026-05-11 16:50:23,526 - INFO - Preprocessing pipeline completed
+2026-05-11 16:51:17,326 - INFO - ============================================================
+2026-05-11 16:51:17,326 - INFO - STARTING RECOMMENDED MODELS INVESTIGATION
+2026-05-11 16:51:17,326 - INFO - ============================================================
+2026-05-11 16:51:17,326 - INFO - Preparing training data...
+2026-05-11 16:51:17,326 - INFO - Training data prepared: 0 images, 0 persons
+2026-05-11 16:51:17,326 - ERROR - No training images found
+2026-05-11 16:51:17,326 - ERROR - Models pipeline failed
+2026-05-11 16:52:48,365 - INFO - ============================================================
+2026-05-11 16:52:48,365 - INFO - STARTING RECOMMENDED MODELS INVESTIGATION
+2026-05-11 16:52:48,365 - INFO - ============================================================
+2026-05-11 16:52:48,365 - INFO - Preparing training data...
+2026-05-11 16:52:48,365 - INFO - Training data prepared: 0 images, 0 persons
+2026-05-11 16:52:48,365 - ERROR - No training images found
+2026-05-11 16:52:48,365 - ERROR - Models pipeline failed
+2026-05-11 16:54:45,558 - INFO - Application closed
+2026-05-11 16:54:47,248 - INFO - Application started
+2026-05-11 16:54:48,584 - INFO - ============================================================
+2026-05-11 16:54:48,584 - INFO - STARTING RECOMMENDED MODELS INVESTIGATION
+2026-05-11 16:54:48,584 - INFO - ============================================================
+2026-05-11 16:54:48,584 - INFO - Preparing training data...
+2026-05-11 16:54:48,590 - INFO - Training data prepared: 1 images, 1 persons
+2026-05-11 16:54:48,590 - INFO - Label map: {0: 'default'}
+2026-05-11 16:54:48,590 - WARNING - Person 'subject_001' not found — using first label: 'default'
+2026-05-11 16:54:48,590 - INFO - Training models...
+2026-05-11 16:54:48,691 - INFO - Monitoring started - Memory: 57.69MB, CPU: 0.00%
+2026-05-11 16:54:48,793 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.01MB, CPU: 0.00%
+2026-05-11 16:54:48,793 - INFO - Training all models completed in 101.10ms
+2026-05-11 16:54:48,793 - ERROR - Model training failed: 'numComponents' is an invalid keyword argument for EigenFaceRecognizer_create()
+2026-05-11 16:54:48,793 - ERROR - Failed to train models
+2026-05-11 16:54:48,793 - ERROR - Models pipeline failed
+2026-05-11 16:57:33,949 - INFO - Application closed
+2026-05-11 16:57:35,699 - INFO - Application started
+2026-05-11 16:57:36,516 - INFO - ============================================================
+2026-05-11 16:57:36,516 - INFO - STARTING RECOMMENDED MODELS INVESTIGATION
+2026-05-11 16:57:36,516 - INFO - ============================================================
+2026-05-11 16:57:36,516 - INFO - Preparing training data...
+2026-05-11 16:57:36,516 - INFO - Training data prepared: 1 images, 1 persons
+2026-05-11 16:57:36,516 - INFO - Label map: {0: 'default'}
+2026-05-11 16:57:36,516 - WARNING - Person 'subject_001' not found — using first label: 'default'
+2026-05-11 16:57:36,516 - INFO - Training models...
+2026-05-11 16:57:36,624 - INFO - Monitoring started - Memory: 58.22MB, CPU: 0.00%
+2026-05-11 16:57:36,624 - ERROR - Eigenfaces training failed: 'EigenfacesRecognizer' object has no attribute 'recognizer'
+2026-05-11 16:57:36,624 - INFO - LBPH model trained with 1 samples
+2026-05-11 16:57:36,729 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.28MB, CPU: 0.00%
+2026-05-11 16:57:36,729 - INFO - Training all models completed in 108.05ms
+2026-05-11 16:57:36,729 - ERROR - Model training failed: 'numComponents' is an invalid keyword argument for FisherFaceRecognizer_create()
+2026-05-11 16:57:36,729 - ERROR - Failed to train models
+2026-05-11 16:57:36,729 - ERROR - Models pipeline failed
+2026-05-11 17:01:02,224 - INFO - Application closed
+2026-05-11 17:01:03,822 - INFO - Application started
+2026-05-11 17:01:04,783 - INFO - ============================================================
+2026-05-11 17:01:04,783 - INFO - STARTING RECOMMENDED MODELS INVESTIGATION
+2026-05-11 17:01:04,783 - INFO - ============================================================
+2026-05-11 17:01:04,783 - INFO - Preparing training data...
+2026-05-11 17:01:04,783 - INFO - Training data prepared: 1 images, 1 persons
+2026-05-11 17:01:04,783 - INFO - Label map: {0: 'default'}
+2026-05-11 17:01:04,783 - WARNING - Person 'subject_001' not found — using first label: 'default'
+2026-05-11 17:01:04,783 - INFO - Training models...
+2026-05-11 17:01:04,887 - INFO - Monitoring started - Memory: 57.89MB, CPU: 0.00%
+2026-05-11 17:01:04,889 - INFO - Eigenfaces model trained with 1 samples
+2026-05-11 17:01:04,891 - WARNING - Fisherface skipped: Requires at least 2 different people/labels.
+2026-05-11 17:01:04,992 - INFO - Monitoring stopped - Time: 0.11s, Memory: 1.21MB, CPU: 0.00%
+2026-05-11 17:01:04,992 - INFO - Training all models completed in 108.13ms
+2026-05-11 17:01:04,992 - ERROR - Model training failed: 'numComponents' is an invalid keyword argument for FisherFaceRecognizer_create()
+2026-05-11 17:01:04,992 - ERROR - Failed to train models
+2026-05-11 17:01:04,992 - ERROR - Models pipeline failed
+2026-05-11 17:01:53,400 - INFO - Application closed
+2026-05-11 17:01:55,122 - INFO - Application started
+2026-05-11 17:01:56,835 - INFO - ============================================================
+2026-05-11 17:01:56,835 - INFO - STARTING RECOMMENDED MODELS INVESTIGATION
+2026-05-11 17:01:56,835 - INFO - ============================================================
+2026-05-11 17:01:56,835 - INFO - Preparing training data...
+2026-05-11 17:01:56,835 - INFO - Training data prepared: 1 images, 1 persons
+2026-05-11 17:01:56,835 - INFO - Label map: {0: 'default'}
+2026-05-11 17:01:56,835 - WARNING - Person 'subject_001' not found — using first label: 'default'
+2026-05-11 17:01:56,835 - INFO - Training models...
+2026-05-11 17:01:56,947 - INFO - Monitoring started - Memory: 58.39MB, CPU: 0.00%
+2026-05-11 17:01:56,956 - INFO - Eigenfaces model trained with 1 samples
+2026-05-11 17:01:56,956 - WARNING - Fisherface skipped: Requires at least 2 different people/labels.
+2026-05-11 17:01:56,957 - WARNING - Fisherface requires at least 2 classes
+2026-05-11 17:01:56,957 - WARNING - Fisherface skipped (needs >= 2 persons in database)
+2026-05-11 17:01:56,962 - INFO - SIFT model trained with 1 classes
+2026-05-11 17:01:57,038 - INFO - ORB model trained with 1 classes
+2026-05-11 17:01:57,039 - INFO - Eigenfaces model trained with 1 samples
+2026-05-11 17:01:57,040 - WARNING - Fisherface skipped: Requires at least 2 different people/labels.
+2026-05-11 17:01:57,040 - WARNING - Fisherface requires at least 2 classes
+2026-05-11 17:01:57,044 - INFO - SIFT model trained with 1 classes
+2026-05-11 17:01:57,044 - INFO - All models trained successfully
+2026-05-11 17:01:57,146 - INFO - Monitoring stopped - Time: 0.21s, Memory: 14.41MB, CPU: 0.00%
+2026-05-11 17:01:57,146 - INFO - Training all models completed in 208.34ms
+2026-05-11 17:01:57,146 - INFO - All models trained successfully
+2026-05-11 17:02:04,953 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-11 17:02:04,953 - INFO - Starting live preview for 3 seconds
+2026-05-11 17:02:07,998 - INFO - Live preview ended
+2026-05-11 17:02:08,328 - INFO - Camera released
+2026-05-11 17:02:08,332 - INFO - Test frame captured successfully
+2026-05-11 17:02:08,334 - INFO - 
+Testing models on different conditions...
+2026-05-11 17:02:08,334 - INFO - ------------------------------------------------------------
+2026-05-11 17:02:08,334 - INFO - 
+Condition: normal
+2026-05-11 17:02:08,334 - INFO - Description: Normal lighting and angle
+2026-05-11 17:02:08,436 - INFO - Monitoring started - Memory: 148.87MB, CPU: 14.30%
+2026-05-11 17:02:08,537 - INFO - Monitoring stopped - Time: 0.10s, Memory: -15.36MB, CPU: 0.00%
+2026-05-11 17:02:08,538 - INFO - Testing eigenfaces on normal completed in 100.41ms
+2026-05-11 17:02:08,640 - INFO - Monitoring started - Memory: 133.51MB, CPU: 0.00%
+2026-05-11 17:02:08,741 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:02:08,741 - INFO - Testing lbph on normal completed in 101.55ms
+2026-05-11 17:02:08,842 - INFO - Monitoring started - Memory: 133.51MB, CPU: 0.00%
+2026-05-11 17:02:08,842 - WARNING - Model not trained
+2026-05-11 17:02:08,944 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:02:08,944 - INFO - Testing fisherface on normal completed in 101.18ms
+2026-05-11 17:02:09,045 - INFO - Monitoring started - Memory: 133.51MB, CPU: 0.00%
+2026-05-11 17:02:09,153 - INFO - Monitoring stopped - Time: 0.10s, Memory: 2.41MB, CPU: 0.00%
+2026-05-11 17:02:09,155 - INFO - Testing sift on normal completed in 104.73ms
+2026-05-11 17:02:09,258 - INFO - Monitoring started - Memory: 135.92MB, CPU: 0.00%
+2026-05-11 17:02:09,360 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.06MB, CPU: 0.00%
+2026-05-11 17:02:09,360 - INFO - Testing orb on normal completed in 100.67ms
+2026-05-11 17:02:09,461 - INFO - Monitoring started - Memory: 135.98MB, CPU: 0.00%
+2026-05-11 17:02:09,461 - WARNING - Model not trained
+2026-05-11 17:02:09,564 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.17MB, CPU: 0.00%
+2026-05-11 17:02:09,564 - INFO - Testing ensemble on normal completed in 103.33ms
+2026-05-11 17:02:09,564 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-11 17:02:09,564 - INFO -   lbph: 0.00% [WRONG]
+2026-05-11 17:02:09,564 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-11 17:02:09,564 - INFO -   sift: 1.64% [OK]
+2026-05-11 17:02:09,564 - INFO -   orb: 140.00% [OK]
+2026-05-11 17:02:09,564 - INFO -   ensemble: 0.82% [WRONG]
+2026-05-11 17:02:09,564 - INFO - 
+Condition: low_light
+2026-05-11 17:02:09,564 - INFO - Description: Low lighting conditions
+2026-05-11 17:02:09,683 - INFO - Low light preprocessing completed
+2026-05-11 17:02:09,784 - INFO - Monitoring started - Memory: 142.62MB, CPU: 0.00%
+2026-05-11 17:02:09,885 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:02:09,885 - INFO - Testing eigenfaces on low_light completed in 101.31ms
+2026-05-11 17:02:09,986 - INFO - Monitoring started - Memory: 142.62MB, CPU: 0.00%
+2026-05-11 17:02:10,087 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:02:10,087 - INFO - Testing lbph on low_light completed in 100.97ms
+2026-05-11 17:02:10,189 - INFO - Monitoring started - Memory: 142.62MB, CPU: 0.00%
+2026-05-11 17:02:10,189 - WARNING - Model not trained
+2026-05-11 17:02:10,290 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:02:10,290 - INFO - Testing fisherface on low_light completed in 101.41ms
+2026-05-11 17:02:10,391 - INFO - Monitoring started - Memory: 142.62MB, CPU: 0.00%
+2026-05-11 17:02:10,495 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.24MB, CPU: 0.00%
+2026-05-11 17:02:10,495 - INFO - Testing sift on low_light completed in 102.94ms
+2026-05-11 17:02:10,596 - INFO - Monitoring started - Memory: 142.86MB, CPU: 0.00%
+2026-05-11 17:02:10,698 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:02:10,698 - INFO - Testing orb on low_light completed in 100.79ms
+2026-05-11 17:02:10,799 - INFO - Monitoring started - Memory: 142.86MB, CPU: 0.00%
+2026-05-11 17:02:10,799 - WARNING - Model not trained
+2026-05-11 17:02:10,904 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.08MB, CPU: 0.00%
+2026-05-11 17:02:10,904 - INFO - Testing ensemble on low_light completed in 105.39ms
+2026-05-11 17:02:10,904 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-11 17:02:10,904 - INFO -   lbph: 0.00% [WRONG]
+2026-05-11 17:02:10,904 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-11 17:02:10,904 - INFO -   sift: 0.00% [WRONG]
+2026-05-11 17:02:10,904 - INFO -   orb: 220.00% [OK]
+2026-05-11 17:02:10,904 - INFO -   ensemble: 0.00% [WRONG]
+2026-05-11 17:02:10,904 - INFO - 
+Condition: motion_blur
+2026-05-11 17:02:10,904 - INFO - Description: Motion blur simulation
+2026-05-11 17:02:10,908 - INFO - Motion blur preprocessing completed
+2026-05-11 17:02:11,014 - INFO - Monitoring started - Memory: 142.17MB, CPU: 0.00%
+2026-05-11 17:02:11,115 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:02:11,115 - INFO - Testing eigenfaces on motion_blur completed in 105.39ms
+2026-05-11 17:02:11,216 - INFO - Monitoring started - Memory: 142.17MB, CPU: 0.00%
+2026-05-11 17:02:11,317 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:02:11,317 - INFO - Testing lbph on motion_blur completed in 101.37ms
+2026-05-11 17:02:11,418 - INFO - Monitoring started - Memory: 142.17MB, CPU: 0.00%
+2026-05-11 17:02:11,418 - WARNING - Model not trained
+2026-05-11 17:02:11,519 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:02:11,519 - INFO - Testing fisherface on motion_blur completed in 101.67ms
+2026-05-11 17:02:11,621 - INFO - Monitoring started - Memory: 142.18MB, CPU: 0.00%
+2026-05-11 17:02:11,725 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.15MB, CPU: 0.00%
+2026-05-11 17:02:11,725 - INFO - Testing sift on motion_blur completed in 102.27ms
+2026-05-11 17:02:11,826 - INFO - Monitoring started - Memory: 142.32MB, CPU: 0.00%
+2026-05-11 17:02:11,928 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:02:11,928 - INFO - Testing orb on motion_blur completed in 101.02ms
+2026-05-11 17:02:12,028 - INFO - Monitoring started - Memory: 142.32MB, CPU: 0.00%
+2026-05-11 17:02:12,028 - WARNING - Model not trained
+2026-05-11 17:02:12,133 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.02MB, CPU: 0.00%
+2026-05-11 17:02:12,133 - INFO - Testing ensemble on motion_blur completed in 103.38ms
+2026-05-11 17:02:12,133 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-11 17:02:12,133 - INFO -   lbph: 0.00% [WRONG]
+2026-05-11 17:02:12,133 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-11 17:02:12,133 - INFO -   sift: 4.92% [OK]
+2026-05-11 17:02:12,133 - INFO -   orb: 190.00% [OK]
+2026-05-11 17:02:12,133 - INFO -   ensemble: 2.46% [WRONG]
+2026-05-11 17:02:12,133 - INFO - 
+Condition: sensor_noise
+2026-05-11 17:02:12,133 - INFO - Description: High sensor noise simulation
+2026-05-11 17:02:12,133 - ERROR - Non-local means denoising failed: OpenCV(4.13.0) :-1: error: (-5:Bad argument) in function 'fastNlMeansDenoisingColored'
+> Overload resolution failed:
+>  - 'hForColorComponents' is an invalid keyword argument for fastNlMeansDenoisingColored()
+>  - 'hForColorComponents' is an invalid keyword argument for fastNlMeansDenoisingColored()
+
+2026-05-11 17:02:12,133 - INFO - Sensor noise preprocessing completed
+2026-05-11 17:02:12,236 - INFO - Monitoring started - Memory: 143.28MB, CPU: 0.00%
+2026-05-11 17:02:12,337 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:02:12,337 - INFO - Testing eigenfaces on sensor_noise completed in 103.17ms
+2026-05-11 17:02:12,438 - INFO - Monitoring started - Memory: 143.28MB, CPU: 0.00%
+2026-05-11 17:02:12,539 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:02:12,539 - INFO - Testing lbph on sensor_noise completed in 101.22ms
+2026-05-11 17:02:12,640 - INFO - Monitoring started - Memory: 143.28MB, CPU: 0.00%
+2026-05-11 17:02:12,640 - WARNING - Model not trained
+2026-05-11 17:02:12,741 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:02:12,741 - INFO - Testing fisherface on sensor_noise completed in 100.98ms
+2026-05-11 17:02:12,842 - INFO - Monitoring started - Memory: 143.28MB, CPU: 0.00%
+2026-05-11 17:02:12,946 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.03MB, CPU: 0.00%
+2026-05-11 17:02:12,946 - INFO - Testing sift on sensor_noise completed in 103.33ms
+2026-05-11 17:02:13,047 - INFO - Monitoring started - Memory: 143.30MB, CPU: 0.00%
+2026-05-11 17:02:13,149 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:02:13,149 - INFO - Testing orb on sensor_noise completed in 101.20ms
+2026-05-11 17:02:13,250 - INFO - Monitoring started - Memory: 143.30MB, CPU: 0.00%
+2026-05-11 17:02:13,250 - WARNING - Model not trained
+2026-05-11 17:02:13,354 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.01MB, CPU: 0.00%
+2026-05-11 17:02:13,354 - INFO - Testing ensemble on sensor_noise completed in 104.44ms
+2026-05-11 17:02:13,354 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-11 17:02:13,354 - INFO -   lbph: 0.00% [WRONG]
+2026-05-11 17:02:13,354 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-11 17:02:13,354 - INFO -   sift: 1.64% [OK]
+2026-05-11 17:02:13,355 - INFO -   orb: 140.00% [OK]
+2026-05-11 17:02:13,355 - INFO -   ensemble: 0.82% [WRONG]
+2026-05-11 17:02:13,355 - INFO - 
+Condition: extreme_angle
+2026-05-11 17:02:13,355 - INFO - Description: Extreme face angle
+2026-05-11 17:02:13,360 - INFO - Extreme angle preprocessing completed
+2026-05-11 17:02:13,462 - INFO - Monitoring started - Memory: 144.30MB, CPU: 0.00%
+2026-05-11 17:02:13,563 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:02:13,563 - INFO - Testing eigenfaces on extreme_angle completed in 102.07ms
+2026-05-11 17:02:13,664 - INFO - Monitoring started - Memory: 144.30MB, CPU: 0.00%
+2026-05-11 17:02:13,765 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:02:13,765 - INFO - Testing lbph on extreme_angle completed in 101.07ms
+2026-05-11 17:02:13,866 - INFO - Monitoring started - Memory: 144.30MB, CPU: 0.00%
+2026-05-11 17:02:13,866 - WARNING - Model not trained
+2026-05-11 17:02:13,967 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:02:13,967 - INFO - Testing fisherface on extreme_angle completed in 101.06ms
+2026-05-11 17:02:14,068 - INFO - Monitoring started - Memory: 144.30MB, CPU: 0.00%
+2026-05-11 17:02:14,172 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.05MB, CPU: 14.30%
+2026-05-11 17:02:14,172 - INFO - Testing sift on extreme_angle completed in 104.29ms
+2026-05-11 17:02:14,273 - INFO - Monitoring started - Memory: 144.35MB, CPU: 0.00%
+2026-05-11 17:02:14,374 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 42.60%
+2026-05-11 17:02:14,374 - INFO - Testing orb on extreme_angle completed in 101.19ms
+2026-05-11 17:02:14,476 - INFO - Monitoring started - Memory: 144.36MB, CPU: 0.00%
+2026-05-11 17:02:14,476 - WARNING - Model not trained
+2026-05-11 17:02:14,580 - INFO - Monitoring stopped - Time: 0.10s, Memory: -17.43MB, CPU: 0.00%
+2026-05-11 17:02:14,580 - INFO - Testing ensemble on extreme_angle completed in 103.69ms
+2026-05-11 17:02:14,580 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-11 17:02:14,580 - INFO -   lbph: 0.00% [WRONG]
+2026-05-11 17:02:14,580 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-11 17:02:14,580 - INFO -   sift: 1.64% [OK]
+2026-05-11 17:02:14,580 - INFO -   orb: 130.00% [OK]
+2026-05-11 17:02:14,580 - INFO -   ensemble: 0.82% [WRONG]
+2026-05-11 17:02:14,580 - INFO - 
+============================================================
+2026-05-11 17:02:14,580 - INFO - INVESTIGATION COMPLETED
+2026-05-11 17:02:14,580 - INFO - ============================================================
+2026-05-11 17:02:14,584 - INFO - Results saved to C:\Users\ASUS\Desktop\Statistics\results\models_investigation_20260511_170214.json
+2026-05-11 17:02:14,589 - INFO - Camera released
+2026-05-11 17:02:14,592 - INFO - Models pipeline completed
+2026-05-11 17:04:02,610 - INFO - ============================================================
+2026-05-11 17:04:02,610 - INFO - STARTING RECOMMENDED MODELS INVESTIGATION
+2026-05-11 17:04:02,610 - INFO - ============================================================
+2026-05-11 17:04:02,610 - INFO - Preparing training data...
+2026-05-11 17:04:02,628 - INFO - Training data prepared: 1 images, 1 persons
+2026-05-11 17:04:02,628 - INFO - Label map: {0: 'default'}
+2026-05-11 17:04:02,628 - WARNING - Person 'subject_001' not found — using first label: 'default'
+2026-05-11 17:04:02,628 - INFO - Training models...
+2026-05-11 17:04:02,729 - INFO - Monitoring started - Memory: 107.36MB, CPU: 0.00%
+2026-05-11 17:04:02,729 - INFO - Eigenfaces model trained with 1 samples
+2026-05-11 17:04:02,729 - WARNING - Fisherface skipped: Requires at least 2 different people/labels.
+2026-05-11 17:04:02,729 - WARNING - Fisherface requires at least 2 classes
+2026-05-11 17:04:02,729 - WARNING - Fisherface skipped (needs >= 2 persons in database)
+2026-05-11 17:04:02,729 - INFO - SIFT model trained with 1 classes
+2026-05-11 17:04:02,734 - INFO - ORB model trained with 1 classes
+2026-05-11 17:04:02,734 - INFO - Eigenfaces model trained with 1 samples
+2026-05-11 17:04:02,734 - WARNING - Fisherface skipped: Requires at least 2 different people/labels.
+2026-05-11 17:04:02,736 - WARNING - Fisherface requires at least 2 classes
+2026-05-11 17:04:02,742 - INFO - SIFT model trained with 1 classes
+2026-05-11 17:04:02,742 - INFO - All models trained successfully
+2026-05-11 17:04:02,843 - INFO - Monitoring stopped - Time: 0.11s, Memory: 3.16MB, CPU: 0.00%
+2026-05-11 17:04:02,843 - INFO - Training all models completed in 114.48ms
+2026-05-11 17:04:02,843 - INFO - All models trained successfully
+2026-05-11 17:04:11,081 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-11 17:04:11,081 - INFO - Starting live preview for 3 seconds
+2026-05-11 17:04:14,142 - INFO - Live preview ended
+2026-05-11 17:04:14,521 - INFO - Camera released
+2026-05-11 17:04:14,521 - INFO - Test frame captured successfully
+2026-05-11 17:04:14,521 - INFO - 
+Testing models on different conditions...
+2026-05-11 17:04:14,521 - INFO - ------------------------------------------------------------
+2026-05-11 17:04:14,523 - INFO - 
+Condition: normal
+2026-05-11 17:04:14,523 - INFO - Description: Normal lighting and angle
+2026-05-11 17:04:14,624 - INFO - Monitoring started - Memory: 156.45MB, CPU: 14.20%
+2026-05-11 17:04:14,725 - INFO - Monitoring stopped - Time: 0.10s, Memory: -14.89MB, CPU: 0.00%
+2026-05-11 17:04:14,725 - INFO - Testing eigenfaces on normal completed in 100.36ms
+2026-05-11 17:04:14,826 - INFO - Monitoring started - Memory: 141.56MB, CPU: 0.00%
+2026-05-11 17:04:14,927 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:14,927 - INFO - Testing lbph on normal completed in 100.40ms
+2026-05-11 17:04:15,028 - INFO - Monitoring started - Memory: 141.56MB, CPU: 0.00%
+2026-05-11 17:04:15,028 - WARNING - Model not trained
+2026-05-11 17:04:15,129 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:15,129 - INFO - Testing fisherface on normal completed in 100.78ms
+2026-05-11 17:04:15,230 - INFO - Monitoring started - Memory: 141.56MB, CPU: 0.00%
+2026-05-11 17:04:15,334 - INFO - Monitoring stopped - Time: 0.10s, Memory: 2.00MB, CPU: 0.00%
+2026-05-11 17:04:15,334 - INFO - Testing sift on normal completed in 104.01ms
+2026-05-11 17:04:15,435 - INFO - Monitoring started - Memory: 143.56MB, CPU: 0.00%
+2026-05-11 17:04:15,537 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.03MB, CPU: 0.00%
+2026-05-11 17:04:15,537 - INFO - Testing orb on normal completed in 101.27ms
+2026-05-11 17:04:15,638 - INFO - Monitoring started - Memory: 143.59MB, CPU: 0.00%
+2026-05-11 17:04:15,638 - WARNING - Model not trained
+2026-05-11 17:04:15,748 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.22MB, CPU: 14.20%
+2026-05-11 17:04:15,749 - INFO - Testing ensemble on normal completed in 109.34ms
+2026-05-11 17:04:15,749 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-11 17:04:15,749 - INFO -   lbph: 0.00% [WRONG]
+2026-05-11 17:04:15,749 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-11 17:04:15,749 - INFO -   sift: 3.28% [OK]
+2026-05-11 17:04:15,749 - INFO -   orb: 110.00% [OK]
+2026-05-11 17:04:15,749 - INFO -   ensemble: 1.64% [WRONG]
+2026-05-11 17:04:15,749 - INFO - 
+Condition: low_light
+2026-05-11 17:04:15,750 - INFO - Description: Low lighting conditions
+2026-05-11 17:04:15,755 - INFO - Low light preprocessing completed
+2026-05-11 17:04:15,856 - INFO - Monitoring started - Memory: 145.56MB, CPU: 0.00%
+2026-05-11 17:04:15,957 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:15,957 - INFO - Testing eigenfaces on low_light completed in 101.42ms
+2026-05-11 17:04:16,058 - INFO - Monitoring started - Memory: 145.56MB, CPU: 0.00%
+2026-05-11 17:04:16,159 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:16,159 - INFO - Testing lbph on low_light completed in 100.77ms
+2026-05-11 17:04:16,260 - INFO - Monitoring started - Memory: 145.56MB, CPU: 0.00%
+2026-05-11 17:04:16,260 - WARNING - Model not trained
+2026-05-11 17:04:16,361 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:16,361 - INFO - Testing fisherface on low_light completed in 101.19ms
+2026-05-11 17:04:16,462 - INFO - Monitoring started - Memory: 145.56MB, CPU: 0.00%
+2026-05-11 17:04:16,567 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.17MB, CPU: 0.00%
+2026-05-11 17:04:16,567 - INFO - Testing sift on low_light completed in 105.23ms
+2026-05-11 17:04:16,669 - INFO - Monitoring started - Memory: 145.73MB, CPU: 0.00%
+2026-05-11 17:04:16,771 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:16,771 - INFO - Testing orb on low_light completed in 101.25ms
+2026-05-11 17:04:16,872 - INFO - Monitoring started - Memory: 145.73MB, CPU: 0.00%
+2026-05-11 17:04:16,872 - WARNING - Model not trained
+2026-05-11 17:04:16,978 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:16,978 - INFO - Testing ensemble on low_light completed in 105.61ms
+2026-05-11 17:04:16,978 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-11 17:04:16,978 - INFO -   lbph: 0.00% [WRONG]
+2026-05-11 17:04:16,980 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-11 17:04:16,980 - INFO -   sift: 4.92% [OK]
+2026-05-11 17:04:16,980 - INFO -   orb: 200.00% [OK]
+2026-05-11 17:04:16,980 - INFO -   ensemble: 2.46% [WRONG]
+2026-05-11 17:04:16,980 - INFO - 
+Condition: motion_blur
+2026-05-11 17:04:16,980 - INFO - Description: Motion blur simulation
+2026-05-11 17:04:16,986 - INFO - Motion blur preprocessing completed
+2026-05-11 17:04:17,092 - INFO - Monitoring started - Memory: 144.87MB, CPU: 0.00%
+2026-05-11 17:04:17,193 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:17,193 - INFO - Testing eigenfaces on motion_blur completed in 106.54ms
+2026-05-11 17:04:17,295 - INFO - Monitoring started - Memory: 144.86MB, CPU: 0.00%
+2026-05-11 17:04:17,397 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:17,397 - INFO - Testing lbph on motion_blur completed in 100.83ms
+2026-05-11 17:04:17,497 - INFO - Monitoring started - Memory: 144.86MB, CPU: 0.00%
+2026-05-11 17:04:17,497 - WARNING - Model not trained
+2026-05-11 17:04:17,598 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:17,598 - INFO - Testing fisherface on motion_blur completed in 100.82ms
+2026-05-11 17:04:17,700 - INFO - Monitoring started - Memory: 144.86MB, CPU: 0.00%
+2026-05-11 17:04:17,804 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.16MB, CPU: 0.00%
+2026-05-11 17:04:17,804 - INFO - Testing sift on motion_blur completed in 105.12ms
+2026-05-11 17:04:17,905 - INFO - Monitoring started - Memory: 145.02MB, CPU: 0.00%
+2026-05-11 17:04:18,009 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:18,009 - INFO - Testing orb on motion_blur completed in 101.04ms
+2026-05-11 17:04:18,111 - INFO - Monitoring started - Memory: 145.02MB, CPU: 0.00%
+2026-05-11 17:04:18,111 - WARNING - Model not trained
+2026-05-11 17:04:18,220 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.02MB, CPU: 0.00%
+2026-05-11 17:04:18,220 - INFO - Testing ensemble on motion_blur completed in 110.26ms
+2026-05-11 17:04:18,220 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-11 17:04:18,220 - INFO -   lbph: 0.00% [WRONG]
+2026-05-11 17:04:18,220 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-11 17:04:18,220 - INFO -   sift: 0.00% [WRONG]
+2026-05-11 17:04:18,220 - INFO -   orb: 210.00% [OK]
+2026-05-11 17:04:18,220 - INFO -   ensemble: 0.00% [WRONG]
+2026-05-11 17:04:18,220 - INFO - 
+Condition: sensor_noise
+2026-05-11 17:04:18,220 - INFO - Description: High sensor noise simulation
+2026-05-11 17:04:18,220 - ERROR - Non-local means denoising failed: OpenCV(4.13.0) :-1: error: (-5:Bad argument) in function 'fastNlMeansDenoisingColored'
+> Overload resolution failed:
+>  - 'hForColorComponents' is an invalid keyword argument for fastNlMeansDenoisingColored()
+>  - 'hForColorComponents' is an invalid keyword argument for fastNlMeansDenoisingColored()
+
+2026-05-11 17:04:18,220 - INFO - Sensor noise preprocessing completed
+2026-05-11 17:04:18,337 - INFO - Monitoring started - Memory: 145.79MB, CPU: 0.00%
+2026-05-11 17:04:18,439 - INFO - Monitoring stopped - Time: 0.12s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:18,439 - INFO - Testing eigenfaces on sensor_noise completed in 116.95ms
+2026-05-11 17:04:18,540 - INFO - Monitoring started - Memory: 145.79MB, CPU: 0.00%
+2026-05-11 17:04:18,641 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:18,641 - INFO - Testing lbph on sensor_noise completed in 101.10ms
+2026-05-11 17:04:18,742 - INFO - Monitoring started - Memory: 145.79MB, CPU: 0.00%
+2026-05-11 17:04:18,742 - WARNING - Model not trained
+2026-05-11 17:04:18,843 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:18,843 - INFO - Testing fisherface on sensor_noise completed in 101.18ms
+2026-05-11 17:04:18,944 - INFO - Monitoring started - Memory: 145.79MB, CPU: 0.00%
+2026-05-11 17:04:19,052 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.15MB, CPU: 0.00%
+2026-05-11 17:04:19,052 - INFO - Testing sift on sensor_noise completed in 107.61ms
+2026-05-11 17:04:19,153 - INFO - Monitoring started - Memory: 145.94MB, CPU: 0.00%
+2026-05-11 17:04:19,256 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.01MB, CPU: 0.00%
+2026-05-11 17:04:19,256 - INFO - Testing orb on sensor_noise completed in 101.59ms
+2026-05-11 17:04:19,358 - INFO - Monitoring started - Memory: 145.95MB, CPU: 0.00%
+2026-05-11 17:04:19,358 - WARNING - Model not trained
+2026-05-11 17:04:19,467 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:19,467 - INFO - Testing ensemble on sensor_noise completed in 110.32ms
+2026-05-11 17:04:19,467 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-11 17:04:19,467 - INFO -   lbph: 0.00% [WRONG]
+2026-05-11 17:04:19,467 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-11 17:04:19,467 - INFO -   sift: 4.92% [OK]
+2026-05-11 17:04:19,467 - INFO -   orb: 120.00% [OK]
+2026-05-11 17:04:19,467 - INFO -   ensemble: 2.46% [WRONG]
+2026-05-11 17:04:19,467 - INFO - 
+Condition: extreme_angle
+2026-05-11 17:04:19,467 - INFO - Description: Extreme face angle
+2026-05-11 17:04:19,487 - INFO - Extreme angle preprocessing completed
+2026-05-11 17:04:19,592 - INFO - Monitoring started - Memory: 145.79MB, CPU: 0.00%
+2026-05-11 17:04:19,694 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:19,694 - INFO - Testing eigenfaces on extreme_angle completed in 101.15ms
+2026-05-11 17:04:19,796 - INFO - Monitoring started - Memory: 145.79MB, CPU: 0.00%
+2026-05-11 17:04:19,897 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:19,897 - INFO - Testing lbph on extreme_angle completed in 101.89ms
+2026-05-11 17:04:19,999 - INFO - Monitoring started - Memory: 145.79MB, CPU: 0.00%
+2026-05-11 17:04:19,999 - WARNING - Model not trained
+2026-05-11 17:04:20,100 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:20,100 - INFO - Testing fisherface on extreme_angle completed in 103.02ms
+2026-05-11 17:04:20,202 - INFO - Monitoring started - Memory: 145.79MB, CPU: 0.00%
+2026-05-11 17:04:20,310 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:20,310 - INFO - Testing sift on extreme_angle completed in 107.84ms
+2026-05-11 17:04:20,412 - INFO - Monitoring started - Memory: 145.79MB, CPU: 0.00%
+2026-05-11 17:04:20,516 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.01MB, CPU: 14.30%
+2026-05-11 17:04:20,516 - INFO - Testing orb on extreme_angle completed in 104.55ms
+2026-05-11 17:04:20,617 - INFO - Monitoring started - Memory: 145.80MB, CPU: 0.00%
+2026-05-11 17:04:20,617 - WARNING - Model not trained
+2026-05-11 17:04:20,726 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:20,726 - INFO - Testing ensemble on extreme_angle completed in 107.85ms
+2026-05-11 17:04:20,726 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-11 17:04:20,726 - INFO -   lbph: 0.00% [WRONG]
+2026-05-11 17:04:20,726 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-11 17:04:20,726 - INFO -   sift: 8.20% [OK]
+2026-05-11 17:04:20,726 - INFO -   orb: 160.00% [OK]
+2026-05-11 17:04:20,726 - INFO -   ensemble: 4.10% [WRONG]
+2026-05-11 17:04:20,726 - INFO - 
+============================================================
+2026-05-11 17:04:20,729 - INFO - INVESTIGATION COMPLETED
+2026-05-11 17:04:20,729 - INFO - ============================================================
+2026-05-11 17:04:20,729 - INFO - Results saved to C:\Users\ASUS\Desktop\Statistics\results\models_investigation_20260511_170420.json
+2026-05-11 17:04:20,750 - INFO - Camera released
+2026-05-11 17:04:20,755 - INFO - Models pipeline completed
+2026-05-11 17:04:40,810 - INFO - ============================================================
+2026-05-11 17:04:40,810 - INFO - STARTING RECOMMENDED MODELS INVESTIGATION
+2026-05-11 17:04:40,810 - INFO - ============================================================
+2026-05-11 17:04:40,810 - INFO - Preparing training data...
+2026-05-11 17:04:40,810 - INFO - Training data prepared: 1 images, 1 persons
+2026-05-11 17:04:40,810 - INFO - Label map: {0: 'default'}
+2026-05-11 17:04:40,810 - WARNING - Person 'subject_001' not found — using first label: 'default'
+2026-05-11 17:04:40,810 - INFO - Training models...
+2026-05-11 17:04:40,920 - INFO - Monitoring started - Memory: 109.22MB, CPU: 0.00%
+2026-05-11 17:04:40,920 - INFO - Eigenfaces model trained with 1 samples
+2026-05-11 17:04:40,923 - WARNING - Fisherface skipped: Requires at least 2 different people/labels.
+2026-05-11 17:04:40,923 - WARNING - Fisherface requires at least 2 classes
+2026-05-11 17:04:40,923 - WARNING - Fisherface skipped (needs >= 2 persons in database)
+2026-05-11 17:04:40,929 - INFO - SIFT model trained with 1 classes
+2026-05-11 17:04:40,932 - INFO - ORB model trained with 1 classes
+2026-05-11 17:04:40,933 - INFO - Eigenfaces model trained with 1 samples
+2026-05-11 17:04:40,933 - WARNING - Fisherface skipped: Requires at least 2 different people/labels.
+2026-05-11 17:04:40,933 - WARNING - Fisherface requires at least 2 classes
+2026-05-11 17:04:40,941 - INFO - SIFT model trained with 1 classes
+2026-05-11 17:04:40,941 - INFO - All models trained successfully
+2026-05-11 17:04:41,042 - INFO - Monitoring stopped - Time: 0.13s, Memory: 3.05MB, CPU: 0.00%
+2026-05-11 17:04:41,042 - INFO - Training all models completed in 131.56ms
+2026-05-11 17:04:41,042 - INFO - All models trained successfully
+2026-05-11 17:04:48,253 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-11 17:04:48,253 - INFO - Starting live preview for 3 seconds
+2026-05-11 17:04:51,277 - INFO - Live preview ended
+2026-05-11 17:04:51,611 - INFO - Camera released
+2026-05-11 17:04:51,611 - INFO - Test frame captured successfully
+2026-05-11 17:04:51,611 - INFO - 
+Testing models on different conditions...
+2026-05-11 17:04:51,611 - INFO - ------------------------------------------------------------
+2026-05-11 17:04:51,613 - INFO - 
+Condition: normal
+2026-05-11 17:04:51,613 - INFO - Description: Normal lighting and angle
+2026-05-11 17:04:51,714 - INFO - Monitoring started - Memory: 157.80MB, CPU: 0.00%
+2026-05-11 17:04:51,815 - INFO - Monitoring stopped - Time: 0.10s, Memory: -15.45MB, CPU: 0.00%
+2026-05-11 17:04:51,815 - INFO - Testing eigenfaces on normal completed in 102.22ms
+2026-05-11 17:04:51,917 - INFO - Monitoring started - Memory: 142.34MB, CPU: 0.00%
+2026-05-11 17:04:52,018 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:52,018 - INFO - Testing lbph on normal completed in 101.85ms
+2026-05-11 17:04:52,118 - INFO - Monitoring started - Memory: 142.34MB, CPU: 0.00%
+2026-05-11 17:04:52,118 - WARNING - Model not trained
+2026-05-11 17:04:52,219 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:52,219 - INFO - Testing fisherface on normal completed in 100.73ms
+2026-05-11 17:04:52,321 - INFO - Monitoring started - Memory: 142.34MB, CPU: 0.00%
+2026-05-11 17:04:52,427 - INFO - Monitoring stopped - Time: 0.11s, Memory: -2.07MB, CPU: 0.00%
+2026-05-11 17:04:52,427 - INFO - Testing sift on normal completed in 105.76ms
+2026-05-11 17:04:52,528 - INFO - Monitoring started - Memory: 140.28MB, CPU: 0.00%
+2026-05-11 17:04:52,630 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.20MB, CPU: 0.00%
+2026-05-11 17:04:52,630 - INFO - Testing orb on normal completed in 100.66ms
+2026-05-11 17:04:52,731 - INFO - Monitoring started - Memory: 140.48MB, CPU: 0.00%
+2026-05-11 17:04:52,732 - WARNING - Model not trained
+2026-05-11 17:04:52,842 - INFO - Monitoring stopped - Time: 0.11s, Memory: 2.75MB, CPU: 0.00%
+2026-05-11 17:04:52,842 - INFO - Testing ensemble on normal completed in 112.06ms
+2026-05-11 17:04:52,842 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-11 17:04:52,842 - INFO -   lbph: 0.00% [WRONG]
+2026-05-11 17:04:52,842 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-11 17:04:52,842 - INFO -   sift: 6.56% [OK]
+2026-05-11 17:04:52,842 - INFO -   orb: 140.00% [OK]
+2026-05-11 17:04:52,842 - INFO -   ensemble: 3.28% [WRONG]
+2026-05-11 17:04:52,842 - INFO - 
+Condition: low_light
+2026-05-11 17:04:52,842 - INFO - Description: Low lighting conditions
+2026-05-11 17:04:52,855 - INFO - Low light preprocessing completed
+2026-05-11 17:04:52,960 - INFO - Monitoring started - Memory: 144.50MB, CPU: 0.00%
+2026-05-11 17:04:53,062 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:53,062 - INFO - Testing eigenfaces on low_light completed in 105.41ms
+2026-05-11 17:04:53,164 - INFO - Monitoring started - Memory: 144.50MB, CPU: 0.00%
+2026-05-11 17:04:53,265 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:53,265 - INFO - Testing lbph on low_light completed in 101.89ms
+2026-05-11 17:04:53,367 - INFO - Monitoring started - Memory: 144.50MB, CPU: 0.00%
+2026-05-11 17:04:53,367 - WARNING - Model not trained
+2026-05-11 17:04:53,469 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:53,469 - INFO - Testing fisherface on low_light completed in 101.80ms
+2026-05-11 17:04:53,571 - INFO - Monitoring started - Memory: 144.50MB, CPU: 0.00%
+2026-05-11 17:04:53,680 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.20MB, CPU: 0.00%
+2026-05-11 17:04:53,680 - INFO - Testing sift on low_light completed in 109.35ms
+2026-05-11 17:04:53,782 - INFO - Monitoring started - Memory: 144.70MB, CPU: 0.00%
+2026-05-11 17:04:53,886 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:53,886 - INFO - Testing orb on low_light completed in 102.71ms
+2026-05-11 17:04:53,988 - INFO - Monitoring started - Memory: 144.70MB, CPU: 0.00%
+2026-05-11 17:04:53,988 - WARNING - Model not trained
+2026-05-11 17:04:54,097 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:54,097 - INFO - Testing ensemble on low_light completed in 109.85ms
+2026-05-11 17:04:54,097 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-11 17:04:54,097 - INFO -   lbph: 0.00% [WRONG]
+2026-05-11 17:04:54,097 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-11 17:04:54,097 - INFO -   sift: 11.48% [OK]
+2026-05-11 17:04:54,097 - INFO -   orb: 210.00% [OK]
+2026-05-11 17:04:54,097 - INFO -   ensemble: 5.74% [WRONG]
+2026-05-11 17:04:54,097 - INFO - 
+Condition: motion_blur
+2026-05-11 17:04:54,097 - INFO - Description: Motion blur simulation
+2026-05-11 17:04:54,109 - INFO - Motion blur preprocessing completed
+2026-05-11 17:04:54,211 - INFO - Monitoring started - Memory: 146.36MB, CPU: 0.00%
+2026-05-11 17:04:54,312 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:54,312 - INFO - Testing eigenfaces on motion_blur completed in 101.93ms
+2026-05-11 17:04:54,413 - INFO - Monitoring started - Memory: 146.35MB, CPU: 0.00%
+2026-05-11 17:04:54,514 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:54,514 - INFO - Testing lbph on motion_blur completed in 101.09ms
+2026-05-11 17:04:54,614 - INFO - Monitoring started - Memory: 146.35MB, CPU: 0.00%
+2026-05-11 17:04:54,614 - WARNING - Model not trained
+2026-05-11 17:04:54,716 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:54,716 - INFO - Testing fisherface on motion_blur completed in 101.73ms
+2026-05-11 17:04:54,818 - INFO - Monitoring started - Memory: 146.35MB, CPU: 0.00%
+2026-05-11 17:04:54,925 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:54,925 - INFO - Testing sift on motion_blur completed in 107.77ms
+2026-05-11 17:04:55,027 - INFO - Monitoring started - Memory: 146.35MB, CPU: 0.00%
+2026-05-11 17:04:55,130 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.01MB, CPU: 0.00%
+2026-05-11 17:04:55,130 - INFO - Testing orb on motion_blur completed in 101.89ms
+2026-05-11 17:04:55,232 - INFO - Monitoring started - Memory: 146.36MB, CPU: 0.00%
+2026-05-11 17:04:55,232 - WARNING - Model not trained
+2026-05-11 17:04:55,340 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.07MB, CPU: 0.00%
+2026-05-11 17:04:55,340 - INFO - Testing ensemble on motion_blur completed in 106.78ms
+2026-05-11 17:04:55,340 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-11 17:04:55,340 - INFO -   lbph: 0.00% [WRONG]
+2026-05-11 17:04:55,340 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-11 17:04:55,340 - INFO -   sift: 4.92% [OK]
+2026-05-11 17:04:55,340 - INFO -   orb: 200.00% [OK]
+2026-05-11 17:04:55,340 - INFO -   ensemble: 2.46% [WRONG]
+2026-05-11 17:04:55,340 - INFO - 
+Condition: sensor_noise
+2026-05-11 17:04:55,340 - INFO - Description: High sensor noise simulation
+2026-05-11 17:04:55,340 - ERROR - Non-local means denoising failed: OpenCV(4.13.0) :-1: error: (-5:Bad argument) in function 'fastNlMeansDenoisingColored'
+> Overload resolution failed:
+>  - 'hForColorComponents' is an invalid keyword argument for fastNlMeansDenoisingColored()
+>  - 'hForColorComponents' is an invalid keyword argument for fastNlMeansDenoisingColored()
+
+2026-05-11 17:04:55,340 - INFO - Sensor noise preprocessing completed
+2026-05-11 17:04:55,447 - INFO - Monitoring started - Memory: 146.44MB, CPU: 0.00%
+2026-05-11 17:04:55,548 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:55,549 - INFO - Testing eigenfaces on sensor_noise completed in 106.65ms
+2026-05-11 17:04:55,650 - INFO - Monitoring started - Memory: 146.44MB, CPU: 0.00%
+2026-05-11 17:04:55,752 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:55,752 - INFO - Testing lbph on sensor_noise completed in 101.64ms
+2026-05-11 17:04:55,853 - INFO - Monitoring started - Memory: 146.44MB, CPU: 0.00%
+2026-05-11 17:04:55,853 - WARNING - Model not trained
+2026-05-11 17:04:55,955 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:55,955 - INFO - Testing fisherface on sensor_noise completed in 101.72ms
+2026-05-11 17:04:56,056 - INFO - Monitoring started - Memory: 146.44MB, CPU: 0.00%
+2026-05-11 17:04:56,165 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.03MB, CPU: 0.00%
+2026-05-11 17:04:56,165 - INFO - Testing sift on sensor_noise completed in 109.22ms
+2026-05-11 17:04:56,267 - INFO - Monitoring started - Memory: 146.47MB, CPU: 0.00%
+2026-05-11 17:04:56,371 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:56,371 - INFO - Testing orb on sensor_noise completed in 101.15ms
+2026-05-11 17:04:56,473 - INFO - Monitoring started - Memory: 146.48MB, CPU: 0.00%
+2026-05-11 17:04:56,473 - WARNING - Model not trained
+2026-05-11 17:04:56,581 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.03MB, CPU: 0.00%
+2026-05-11 17:04:56,581 - INFO - Testing ensemble on sensor_noise completed in 110.21ms
+2026-05-11 17:04:56,581 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-11 17:04:56,581 - INFO -   lbph: 0.00% [WRONG]
+2026-05-11 17:04:56,581 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-11 17:04:56,581 - INFO -   sift: 9.84% [OK]
+2026-05-11 17:04:56,581 - INFO -   orb: 130.00% [OK]
+2026-05-11 17:04:56,581 - INFO -   ensemble: 4.92% [WRONG]
+2026-05-11 17:04:56,581 - INFO - 
+Condition: extreme_angle
+2026-05-11 17:04:56,581 - INFO - Description: Extreme face angle
+2026-05-11 17:04:56,600 - INFO - Extreme angle preprocessing completed
+2026-05-11 17:04:56,702 - INFO - Monitoring started - Memory: 146.50MB, CPU: 42.60%
+2026-05-11 17:04:56,804 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:56,804 - INFO - Testing eigenfaces on extreme_angle completed in 101.19ms
+2026-05-11 17:04:56,906 - INFO - Monitoring started - Memory: 146.50MB, CPU: 0.00%
+2026-05-11 17:04:57,007 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:57,007 - INFO - Testing lbph on extreme_angle completed in 102.15ms
+2026-05-11 17:04:57,109 - INFO - Monitoring started - Memory: 146.50MB, CPU: 0.00%
+2026-05-11 17:04:57,109 - WARNING - Model not trained
+2026-05-11 17:04:57,211 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:04:57,211 - INFO - Testing fisherface on extreme_angle completed in 101.93ms
+2026-05-11 17:04:57,313 - INFO - Monitoring started - Memory: 146.50MB, CPU: 14.30%
+2026-05-11 17:04:57,421 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.02MB, CPU: 0.00%
+2026-05-11 17:04:57,421 - INFO - Testing sift on extreme_angle completed in 108.19ms
+2026-05-11 17:04:57,523 - INFO - Monitoring started - Memory: 146.52MB, CPU: 0.00%
+2026-05-11 17:04:57,626 - INFO - Monitoring stopped - Time: 0.10s, Memory: -0.08MB, CPU: 0.00%
+2026-05-11 17:04:57,626 - INFO - Testing orb on extreme_angle completed in 101.70ms
+2026-05-11 17:04:57,728 - INFO - Monitoring started - Memory: 146.44MB, CPU: 16.80%
+2026-05-11 17:04:57,728 - WARNING - Model not trained
+2026-05-11 17:04:57,839 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.19MB, CPU: 0.00%
+2026-05-11 17:04:57,839 - INFO - Testing ensemble on extreme_angle completed in 110.46ms
+2026-05-11 17:04:57,839 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-11 17:04:57,839 - INFO -   lbph: 0.00% [WRONG]
+2026-05-11 17:04:57,839 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-11 17:04:57,839 - INFO -   sift: 9.84% [OK]
+2026-05-11 17:04:57,839 - INFO -   orb: 130.00% [OK]
+2026-05-11 17:04:57,839 - INFO -   ensemble: 4.92% [WRONG]
+2026-05-11 17:04:57,839 - INFO - 
+============================================================
+2026-05-11 17:04:57,839 - INFO - INVESTIGATION COMPLETED
+2026-05-11 17:04:57,839 - INFO - ============================================================
+2026-05-11 17:04:57,839 - INFO - Results saved to C:\Users\ASUS\Desktop\Statistics\results\models_investigation_20260511_170457.json
+2026-05-11 17:04:57,857 - INFO - Camera released
+2026-05-11 17:04:57,861 - INFO - Models pipeline completed
+2026-05-11 17:06:28,932 - INFO - Application started
+2026-05-11 17:06:30,521 - INFO - ============================================================
+2026-05-11 17:06:30,535 - INFO - STARTING RECOMMENDED MODELS INVESTIGATION
+2026-05-11 17:06:30,535 - INFO - ============================================================
+2026-05-11 17:06:30,535 - INFO - Preparing training data...
+2026-05-11 17:06:30,535 - INFO - Training data prepared: 1 images, 1 persons
+2026-05-11 17:06:30,535 - INFO - Label map: {0: 'default'}
+2026-05-11 17:06:30,535 - WARNING - Person 'subject_001' not found — using first label: 'default'
+2026-05-11 17:06:30,535 - INFO - Training models...
+2026-05-11 17:06:30,638 - INFO - Monitoring started - Memory: 57.76MB, CPU: 0.00%
+2026-05-11 17:06:30,648 - INFO - Eigenfaces model trained with 1 samples
+2026-05-11 17:06:30,648 - WARNING - Fisherface skipped: Requires at least 2 different people/labels.
+2026-05-11 17:06:30,648 - WARNING - Fisherface requires at least 2 classes
+2026-05-11 17:06:30,648 - WARNING - Fisherface skipped (needs >= 2 persons in database)
+2026-05-11 17:06:30,654 - INFO - SIFT model trained with 1 classes
+2026-05-11 17:06:30,738 - INFO - ORB model trained with 1 classes
+2026-05-11 17:06:30,739 - INFO - Eigenfaces model trained with 1 samples
+2026-05-11 17:06:30,740 - WARNING - Fisherface skipped: Requires at least 2 different people/labels.
+2026-05-11 17:06:30,740 - WARNING - Fisherface requires at least 2 classes
+2026-05-11 17:06:30,745 - INFO - SIFT model trained with 1 classes
+2026-05-11 17:06:30,745 - INFO - All models trained successfully
+2026-05-11 17:06:30,846 - INFO - Monitoring stopped - Time: 0.21s, Memory: 14.86MB, CPU: 0.00%
+2026-05-11 17:06:30,846 - INFO - Training all models completed in 209.63ms
+2026-05-11 17:06:30,846 - INFO - All models trained successfully
+2026-05-11 17:06:38,428 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-11 17:06:38,428 - INFO - Starting live preview for 3 seconds
+2026-05-11 17:06:41,501 - INFO - Live preview ended
+2026-05-11 17:06:41,847 - INFO - Camera released
+2026-05-11 17:06:41,847 - INFO - Test frame captured successfully
+2026-05-11 17:06:41,847 - INFO - 
+Testing models on different conditions...
+2026-05-11 17:06:41,847 - INFO - ------------------------------------------------------------
+2026-05-11 17:06:41,847 - INFO - 
+Condition: normal
+2026-05-11 17:06:41,847 - INFO - Description: Normal lighting and angle
+2026-05-11 17:06:41,951 - INFO - Monitoring started - Memory: 152.79MB, CPU: 14.20%
+2026-05-11 17:06:42,052 - INFO - Monitoring stopped - Time: 0.10s, Memory: -18.17MB, CPU: 0.00%
+2026-05-11 17:06:42,052 - INFO - Testing eigenfaces on normal completed in 104.11ms
+2026-05-11 17:06:42,154 - INFO - Monitoring started - Memory: 134.62MB, CPU: 0.00%
+2026-05-11 17:06:42,255 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:06:42,255 - INFO - Testing lbph on normal completed in 101.06ms
+2026-05-11 17:06:42,356 - INFO - Monitoring started - Memory: 134.62MB, CPU: 0.00%
+2026-05-11 17:06:42,356 - WARNING - Model not trained
+2026-05-11 17:06:42,457 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:06:42,457 - INFO - Testing fisherface on normal completed in 101.34ms
+2026-05-11 17:06:42,558 - INFO - Monitoring started - Memory: 134.62MB, CPU: 0.00%
+2026-05-11 17:06:42,667 - INFO - Monitoring stopped - Time: 0.11s, Memory: -1.46MB, CPU: 0.00%
+2026-05-11 17:06:42,667 - INFO - Testing sift on normal completed in 109.03ms
+2026-05-11 17:06:42,768 - INFO - Monitoring started - Memory: 133.16MB, CPU: 0.00%
+2026-05-11 17:06:42,870 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.06MB, CPU: 0.00%
+2026-05-11 17:06:42,870 - INFO - Testing orb on normal completed in 100.66ms
+2026-05-11 17:06:42,971 - INFO - Monitoring started - Memory: 133.21MB, CPU: 0.00%
+2026-05-11 17:06:42,972 - WARNING - Model not trained
+2026-05-11 17:06:43,084 - INFO - Monitoring stopped - Time: 0.11s, Memory: 2.95MB, CPU: 0.00%
+2026-05-11 17:06:43,084 - INFO - Testing ensemble on normal completed in 111.98ms
+2026-05-11 17:06:43,084 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-11 17:06:43,084 - INFO -   lbph: 0.00% [WRONG]
+2026-05-11 17:06:43,084 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-11 17:06:43,084 - INFO -   sift: 1.64% [OK]
+2026-05-11 17:06:43,084 - INFO -   orb: 130.00% [OK]
+2026-05-11 17:06:43,084 - INFO -   ensemble: 0.82% [WRONG]
+2026-05-11 17:06:43,084 - INFO - 
+Condition: low_light
+2026-05-11 17:06:43,088 - INFO - Description: Low lighting conditions
+2026-05-11 17:06:43,205 - INFO - Low light preprocessing completed
+2026-05-11 17:06:43,308 - INFO - Monitoring started - Memory: 141.77MB, CPU: 0.00%
+2026-05-11 17:06:43,410 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:06:43,410 - INFO - Testing eigenfaces on low_light completed in 103.01ms
+2026-05-11 17:06:43,511 - INFO - Monitoring started - Memory: 141.77MB, CPU: 0.00%
+2026-05-11 17:06:43,612 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:06:43,612 - INFO - Testing lbph on low_light completed in 101.33ms
+2026-05-11 17:06:43,714 - INFO - Monitoring started - Memory: 141.77MB, CPU: 0.00%
+2026-05-11 17:06:43,714 - WARNING - Model not trained
+2026-05-11 17:06:43,815 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:06:43,815 - INFO - Testing fisherface on low_light completed in 101.90ms
+2026-05-11 17:06:43,916 - INFO - Monitoring started - Memory: 141.77MB, CPU: 0.00%
+2026-05-11 17:06:44,025 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.22MB, CPU: 0.00%
+2026-05-11 17:06:44,025 - INFO - Testing sift on low_light completed in 108.86ms
+2026-05-11 17:06:44,126 - INFO - Monitoring started - Memory: 141.98MB, CPU: 0.00%
+2026-05-11 17:06:44,230 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:06:44,230 - INFO - Testing orb on low_light completed in 101.29ms
+2026-05-11 17:06:44,332 - INFO - Monitoring started - Memory: 141.98MB, CPU: 0.00%
+2026-05-11 17:06:44,332 - WARNING - Model not trained
+2026-05-11 17:06:44,440 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.06MB, CPU: 0.00%
+2026-05-11 17:06:44,440 - INFO - Testing ensemble on low_light completed in 108.78ms
+2026-05-11 17:06:44,440 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-11 17:06:44,440 - INFO -   lbph: 0.00% [WRONG]
+2026-05-11 17:06:44,440 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-11 17:06:44,440 - INFO -   sift: 1.64% [OK]
+2026-05-11 17:06:44,440 - INFO -   orb: 240.00% [OK]
+2026-05-11 17:06:44,440 - INFO -   ensemble: 0.82% [WRONG]
+2026-05-11 17:06:44,440 - INFO - 
+Condition: motion_blur
+2026-05-11 17:06:44,440 - INFO - Description: Motion blur simulation
+2026-05-11 17:06:44,446 - INFO - Motion blur preprocessing completed
+2026-05-11 17:06:44,554 - INFO - Monitoring started - Memory: 143.94MB, CPU: 0.00%
+2026-05-11 17:06:44,656 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:06:44,656 - INFO - Testing eigenfaces on motion_blur completed in 100.56ms
+2026-05-11 17:06:44,758 - INFO - Monitoring started - Memory: 143.94MB, CPU: 0.00%
+2026-05-11 17:06:44,859 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:06:44,859 - INFO - Testing lbph on motion_blur completed in 101.47ms
+2026-05-11 17:06:44,961 - INFO - Monitoring started - Memory: 143.94MB, CPU: 0.00%
+2026-05-11 17:06:44,961 - WARNING - Model not trained
+2026-05-11 17:06:45,063 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:06:45,063 - INFO - Testing fisherface on motion_blur completed in 101.85ms
+2026-05-11 17:06:45,164 - INFO - Monitoring started - Memory: 143.94MB, CPU: 0.00%
+2026-05-11 17:06:45,271 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.12MB, CPU: 0.00%
+2026-05-11 17:06:45,271 - INFO - Testing sift on motion_blur completed in 107.12ms
+2026-05-11 17:06:45,373 - INFO - Monitoring started - Memory: 144.05MB, CPU: 0.00%
+2026-05-11 17:06:45,476 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:06:45,476 - INFO - Testing orb on motion_blur completed in 101.96ms
+2026-05-11 17:06:45,578 - INFO - Monitoring started - Memory: 144.05MB, CPU: 0.00%
+2026-05-11 17:06:45,578 - WARNING - Model not trained
+2026-05-11 17:06:45,685 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:06:45,685 - INFO - Testing ensemble on motion_blur completed in 101.97ms
+2026-05-11 17:06:45,685 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-11 17:06:45,685 - INFO -   lbph: 0.00% [WRONG]
+2026-05-11 17:06:45,685 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-11 17:06:45,685 - INFO -   sift: 4.92% [OK]
+2026-05-11 17:06:45,685 - INFO -   orb: 180.00% [OK]
+2026-05-11 17:06:45,685 - INFO -   ensemble: 2.46% [WRONG]
+2026-05-11 17:06:45,685 - INFO - 
+Condition: sensor_noise
+2026-05-11 17:06:45,685 - INFO - Description: High sensor noise simulation
+2026-05-11 17:06:45,687 - ERROR - Non-local means denoising failed: OpenCV(4.13.0) :-1: error: (-5:Bad argument) in function 'fastNlMeansDenoisingColored'
+> Overload resolution failed:
+>  - 'hForColorComponents' is an invalid keyword argument for fastNlMeansDenoisingColored()
+>  - 'hForColorComponents' is an invalid keyword argument for fastNlMeansDenoisingColored()
+
+2026-05-11 17:06:45,687 - INFO - Sensor noise preprocessing completed
+2026-05-11 17:06:45,788 - INFO - Monitoring started - Memory: 144.11MB, CPU: 0.00%
+2026-05-11 17:06:45,889 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:06:45,889 - INFO - Testing eigenfaces on sensor_noise completed in 101.36ms
+2026-05-11 17:06:45,991 - INFO - Monitoring started - Memory: 144.11MB, CPU: 0.00%
+2026-05-11 17:06:46,094 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:06:46,098 - INFO - Testing lbph on sensor_noise completed in 101.84ms
+2026-05-11 17:06:46,233 - INFO - Monitoring started - Memory: 144.11MB, CPU: 0.00%
+2026-05-11 17:06:46,233 - WARNING - Model not trained
+2026-05-11 17:06:46,334 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:06:46,334 - INFO - Testing fisherface on sensor_noise completed in 100.73ms
+2026-05-11 17:06:46,436 - INFO - Monitoring started - Memory: 144.11MB, CPU: 0.00%
+2026-05-11 17:06:46,543 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.02MB, CPU: 0.00%
+2026-05-11 17:06:46,543 - INFO - Testing sift on sensor_noise completed in 106.24ms
+2026-05-11 17:06:46,645 - INFO - Monitoring started - Memory: 144.13MB, CPU: 0.00%
+2026-05-11 17:06:46,748 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:06:46,748 - INFO - Testing orb on sensor_noise completed in 101.60ms
+2026-05-11 17:06:46,849 - INFO - Monitoring started - Memory: 144.13MB, CPU: 0.00%
+2026-05-11 17:06:46,849 - WARNING - Model not trained
+2026-05-11 17:06:46,953 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.05MB, CPU: 28.40%
+2026-05-11 17:06:46,953 - INFO - Testing ensemble on sensor_noise completed in 103.93ms
+2026-05-11 17:06:46,953 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-11 17:06:46,953 - INFO -   lbph: 0.00% [WRONG]
+2026-05-11 17:06:46,953 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-11 17:06:46,953 - INFO -   sift: 1.64% [OK]
+2026-05-11 17:06:46,953 - INFO -   orb: 130.00% [OK]
+2026-05-11 17:06:46,953 - INFO -   ensemble: 0.82% [WRONG]
+2026-05-11 17:06:46,953 - INFO - 
+Condition: extreme_angle
+2026-05-11 17:06:46,953 - INFO - Description: Extreme face angle
+2026-05-11 17:06:46,960 - INFO - Extreme angle preprocessing completed
+2026-05-11 17:06:47,061 - INFO - Monitoring started - Memory: 144.27MB, CPU: 0.00%
+2026-05-11 17:06:47,162 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:06:47,162 - INFO - Testing eigenfaces on extreme_angle completed in 101.26ms
+2026-05-11 17:06:47,264 - INFO - Monitoring started - Memory: 144.27MB, CPU: 0.00%
+2026-05-11 17:06:47,365 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:06:47,365 - INFO - Testing lbph on extreme_angle completed in 101.65ms
+2026-05-11 17:06:47,467 - INFO - Monitoring started - Memory: 144.27MB, CPU: 0.00%
+2026-05-11 17:06:47,467 - WARNING - Model not trained
+2026-05-11 17:06:47,568 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:06:47,568 - INFO - Testing fisherface on extreme_angle completed in 101.88ms
+2026-05-11 17:06:47,670 - INFO - Monitoring started - Memory: 144.27MB, CPU: 0.00%
+2026-05-11 17:06:47,778 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.01MB, CPU: 0.00%
+2026-05-11 17:06:47,778 - INFO - Testing sift on extreme_angle completed in 107.21ms
+2026-05-11 17:06:47,880 - INFO - Monitoring started - Memory: 144.28MB, CPU: 0.00%
+2026-05-11 17:06:47,983 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-11 17:06:47,983 - INFO - Testing orb on extreme_angle completed in 104.28ms
+2026-05-11 17:06:48,085 - INFO - Monitoring started - Memory: 144.28MB, CPU: 0.00%
+2026-05-11 17:06:48,085 - WARNING - Model not trained
+2026-05-11 17:06:48,193 - INFO - Monitoring stopped - Time: 0.11s, Memory: -16.92MB, CPU: 0.00%
+2026-05-11 17:06:48,193 - INFO - Testing ensemble on extreme_angle completed in 106.99ms
+2026-05-11 17:06:48,193 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-11 17:06:48,193 - INFO -   lbph: 0.00% [WRONG]
+2026-05-11 17:06:48,193 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-11 17:06:48,193 - INFO -   sift: 4.92% [OK]
+2026-05-11 17:06:48,193 - INFO -   orb: 110.00% [OK]
+2026-05-11 17:06:48,193 - INFO -   ensemble: 2.46% [WRONG]
+2026-05-11 17:06:48,193 - INFO - 
+============================================================
+2026-05-11 17:06:48,193 - INFO - INVESTIGATION COMPLETED
+2026-05-11 17:06:48,193 - INFO - ============================================================
+2026-05-11 17:06:48,193 - INFO - Results saved to C:\Users\ASUS\Desktop\Statistics\results\models_investigation_20260511_170648.json
+2026-05-11 17:06:48,205 - INFO - Camera released
+2026-05-11 17:06:48,208 - INFO - Models pipeline completed
+2026-05-11 17:07:07,015 - INFO - Application closed
+2026-05-11 17:11:07,056 - INFO - Application started
+2026-05-11 17:11:09,053 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-11 17:11:09,053 - INFO -   Shape: (178, 178, 3)
+2026-05-11 17:11:09,053 - INFO - 
+======================================================================
+2026-05-11 17:11:09,053 - INFO - CAPTURING YOUR FACE
+2026-05-11 17:11:09,053 - INFO - ======================================================================
+2026-05-11 17:11:09,053 - INFO - Position your face in front of the camera...
+2026-05-11 17:11:09,053 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-11 17:11:19,637 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-11 17:11:52,687 - INFO - Capture cancelled
+2026-05-11 17:11:53,080 - INFO - Camera released
+2026-05-11 17:11:53,080 - INFO - Camera released
+2026-05-11 17:11:53,086 - ERROR - Preprocessing pipeline failed
+2026-05-11 17:11:57,376 - INFO - Application closed
+2026-05-13 13:10:03,413 - INFO - Application started
+2026-05-13 13:10:29,923 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-13 13:10:29,923 - INFO -   Shape: (178, 178, 3)
+2026-05-13 13:10:29,923 - INFO - 
+======================================================================
+2026-05-13 13:10:29,923 - INFO - CAPTURING YOUR FACE
+2026-05-13 13:10:29,923 - INFO - ======================================================================
+2026-05-13 13:10:29,923 - INFO - Position your face in front of the camera...
+2026-05-13 13:10:29,923 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-13 13:10:38,141 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-13 13:10:54,469 - INFO - [OK] Face captured!
+2026-05-13 13:10:54,871 - INFO - Camera released
+2026-05-13 13:10:54,871 - INFO - Camera released
+2026-05-13 13:10:54,905 - INFO - Normal preprocessing completed
+2026-05-13 13:10:54,947 - INFO - Displaying comparison. Press any key to close...
+2026-05-13 13:10:57,874 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\Statistics\captured\20260513_131029\comparison_results.json
+2026-05-13 13:10:57,905 - INFO - Preprocessing pipeline completed
+2026-05-13 13:31:18,046 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-13 13:31:18,046 - INFO -   Shape: (178, 178, 3)
+2026-05-13 13:31:18,046 - INFO - 
+======================================================================
+2026-05-13 13:31:18,046 - INFO - CAPTURING YOUR FACE
+2026-05-13 13:31:18,046 - INFO - ======================================================================
+2026-05-13 13:31:18,046 - INFO - Position your face in front of the camera...
+2026-05-13 13:31:18,046 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-13 13:31:28,258 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-13 13:31:49,839 - INFO - [OK] Face captured!
+2026-05-13 13:31:50,239 - INFO - Camera released
+2026-05-13 13:31:50,239 - INFO - Camera released
+2026-05-13 13:31:50,268 - INFO - Normal preprocessing completed
+2026-05-13 13:31:50,314 - INFO - Displaying comparison. Press any key to close...
+2026-05-13 13:31:53,762 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\Statistics\captured\20260513_133118\comparison_results.json
+2026-05-13 13:31:53,778 - INFO - Preprocessing pipeline completed
+2026-05-13 13:32:17,370 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-13 13:32:17,370 - INFO -   Shape: (178, 178, 3)
+2026-05-13 13:32:17,370 - INFO - 
+======================================================================
+2026-05-13 13:32:17,370 - INFO - CAPTURING YOUR FACE
+2026-05-13 13:32:17,370 - INFO - ======================================================================
+2026-05-13 13:32:17,370 - INFO - Position your face in front of the camera...
+2026-05-13 13:32:17,370 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-13 13:32:25,863 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-13 13:32:31,392 - INFO - [OK] Face captured!
+2026-05-13 13:32:31,735 - INFO - Camera released
+2026-05-13 13:32:31,735 - INFO - Camera released
+2026-05-13 13:32:31,764 - INFO - Normal preprocessing completed
+2026-05-13 13:32:31,798 - INFO - Displaying comparison. Press any key to close...
+2026-05-13 13:32:34,625 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\Statistics\captured\20260513_133217\comparison_results.json
+2026-05-13 13:32:34,629 - INFO - Preprocessing pipeline completed
+2026-05-13 13:32:58,236 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-13 13:32:58,236 - INFO -   Shape: (178, 178, 3)
+2026-05-13 13:32:58,236 - INFO - 
+======================================================================
+2026-05-13 13:32:58,236 - INFO - CAPTURING YOUR FACE
+2026-05-13 13:32:58,236 - INFO - ======================================================================
+2026-05-13 13:32:58,236 - INFO - Position your face in front of the camera...
+2026-05-13 13:32:58,236 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-13 13:33:08,458 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-13 13:33:39,216 - INFO - [OK] Face captured!
+2026-05-13 13:33:39,574 - INFO - Camera released
+2026-05-13 13:33:39,575 - INFO - Camera released
+2026-05-13 13:33:39,588 - INFO - Normal preprocessing completed
+2026-05-13 13:33:39,635 - INFO - Displaying comparison. Press any key to close...
+2026-05-13 13:33:45,753 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\Statistics\captured\20260513_133258\comparison_results.json
+2026-05-13 13:33:45,755 - INFO - Preprocessing pipeline completed
+2026-05-13 13:33:59,177 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-13 13:33:59,178 - INFO -   Shape: (178, 178, 3)
+2026-05-13 13:33:59,178 - INFO - 
+======================================================================
+2026-05-13 13:33:59,180 - INFO - CAPTURING YOUR FACE
+2026-05-13 13:33:59,181 - INFO - ======================================================================
+2026-05-13 13:33:59,181 - INFO - Position your face in front of the camera...
+2026-05-13 13:33:59,182 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-13 13:34:10,762 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-13 13:34:33,650 - INFO - [OK] Face captured!
+2026-05-13 13:34:34,025 - INFO - Camera released
+2026-05-13 13:34:34,025 - INFO - Camera released
+2026-05-13 13:34:34,036 - INFO - Normal preprocessing completed
+2026-05-13 13:34:34,071 - INFO - Displaying comparison. Press any key to close...
+2026-05-13 13:35:13,205 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\Statistics\captured\20260513_133359\comparison_results.json
+2026-05-13 13:35:13,206 - INFO - Preprocessing pipeline completed
+2026-05-13 13:35:22,062 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-13 13:35:22,062 - INFO -   Shape: (178, 178, 3)
+2026-05-13 13:35:22,063 - INFO - 
+======================================================================
+2026-05-13 13:35:22,063 - INFO - CAPTURING YOUR FACE
+2026-05-13 13:35:22,063 - INFO - ======================================================================
+2026-05-13 13:35:22,063 - INFO - Position your face in front of the camera...
+2026-05-13 13:35:22,063 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-13 13:35:35,259 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-13 13:35:40,259 - INFO - [OK] Face captured!
+2026-05-13 13:35:40,615 - INFO - Camera released
+2026-05-13 13:35:40,616 - INFO - Camera released
+2026-05-13 13:35:40,637 - INFO - Normal preprocessing completed
+2026-05-13 13:35:40,673 - INFO - Displaying comparison. Press any key to close...
+2026-05-13 13:35:47,741 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\Statistics\captured\20260513_133522\comparison_results.json
+2026-05-13 13:35:47,743 - INFO - Preprocessing pipeline completed
+2026-05-13 13:48:12,852 - INFO - Application started
+2026-05-13 13:48:25,551 - ERROR - Preprocessing pipeline error: No module named 'skimage'
+2026-05-13 13:48:38,033 - INFO - Application closed
+2026-05-13 13:50:42,824 - INFO - Application started
+2026-05-13 13:50:51,686 - ERROR - Preprocessing pipeline error: numpy.core.multiarray failed to import
+2026-05-13 13:51:05,497 - INFO - Application closed
+2026-05-13 13:52:14,048 - INFO - Application started
+2026-05-13 13:52:26,094 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-13 13:52:26,094 - INFO -   Shape: (178, 178, 3)
+2026-05-13 13:52:26,094 - INFO - 
+======================================================================
+2026-05-13 13:52:26,107 - INFO - CAPTURING YOUR FACE
+2026-05-13 13:52:26,108 - INFO - ======================================================================
+2026-05-13 13:52:26,108 - INFO - Position your face in front of the camera...
+2026-05-13 13:52:26,110 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-13 13:52:36,130 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-13 13:52:47,683 - INFO - [OK] Face captured!
+2026-05-13 13:52:48,021 - INFO - Camera released
+2026-05-13 13:52:48,021 - INFO - Camera released
+2026-05-13 13:52:48,065 - INFO - Normal preprocessing completed
+2026-05-13 13:52:48,088 - ERROR - Investigation failed: 'ssim'
+2026-05-13 13:52:48,089 - ERROR - Preprocessing pipeline failed
+2026-05-13 13:53:03,628 - INFO - Application closed
+2026-05-13 13:53:48,009 - INFO - Application closed
+2026-05-13 13:53:51,212 - INFO - Application started
+2026-05-13 13:53:56,283 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-13 13:53:56,283 - INFO -   Shape: (178, 178, 3)
+2026-05-13 13:53:56,283 - INFO - 
+======================================================================
+2026-05-13 13:53:56,283 - INFO - CAPTURING YOUR FACE
+2026-05-13 13:53:56,283 - INFO - ======================================================================
+2026-05-13 13:53:56,292 - INFO - Position your face in front of the camera...
+2026-05-13 13:53:56,292 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-13 13:54:04,522 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-13 13:54:09,249 - INFO - [OK] Face captured!
+2026-05-13 13:54:09,612 - INFO - Camera released
+2026-05-13 13:54:09,617 - INFO - Camera released
+2026-05-13 13:54:09,636 - INFO - Normal preprocessing completed
+2026-05-13 13:54:09,672 - INFO - Displaying comparison. Press any key to close...
+2026-05-13 13:54:09,737 - ERROR - Failed to save results: Object of type float32 is not JSON serializable
+2026-05-13 13:54:09,755 - INFO - Preprocessing pipeline completed
+2026-05-13 13:55:17,193 - INFO - Application closed
+2026-05-13 13:55:17,534 - INFO - Application started
+2026-05-13 13:55:25,886 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-13 13:55:25,886 - INFO -   Shape: (178, 178, 3)
+2026-05-13 13:55:25,886 - INFO - 
+======================================================================
+2026-05-13 13:55:25,886 - INFO - CAPTURING YOUR FACE
+2026-05-13 13:55:25,886 - INFO - ======================================================================
+2026-05-13 13:55:25,886 - INFO - Position your face in front of the camera...
+2026-05-13 13:55:25,886 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-13 13:55:35,228 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-13 13:55:43,562 - INFO - [OK] Face captured!
+2026-05-13 13:55:43,895 - INFO - Camera released
+2026-05-13 13:55:43,897 - INFO - Camera released
+2026-05-13 13:55:43,938 - INFO - Normal preprocessing completed
+2026-05-13 13:55:43,972 - INFO - Displaying comparison. Press any key to close...
+2026-05-13 13:56:37,078 - INFO - Application started
+2026-05-13 13:56:38,730 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-13 13:56:38,730 - INFO -   Shape: (178, 178, 3)
+2026-05-13 13:56:38,730 - INFO - 
+======================================================================
+2026-05-13 13:56:38,730 - INFO - CAPTURING YOUR FACE
+2026-05-13 13:56:38,730 - INFO - ======================================================================
+2026-05-13 13:56:38,730 - INFO - Position your face in front of the camera...
+2026-05-13 13:56:38,730 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-13 13:56:46,349 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-13 13:56:50,672 - INFO - [OK] Face captured!
+2026-05-13 13:56:51,035 - INFO - Camera released
+2026-05-13 13:56:51,040 - INFO - Camera released
+2026-05-13 13:56:51,059 - INFO - Normal preprocessing completed
+2026-05-13 13:56:51,091 - INFO - Displaying comparison. Press any key to close...
+2026-05-13 13:56:53,932 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\Statistics\captured\20260513_135638\comparison_results.json
+2026-05-13 13:56:53,947 - INFO - Preprocessing pipeline completed
+2026-05-13 13:57:25,059 - ERROR - Failed to save results: [Errno 2] No such file or directory: 'C:\\Users\\ASUS\\Desktop\\Statistics\\captured\\20260513_135525\\comparison_results.json'
+2026-05-13 13:57:25,063 - INFO - Preprocessing pipeline completed
+2026-05-13 13:59:58,419 - INFO - ============================================================
+2026-05-13 13:59:58,419 - INFO - STARTING RECOMMENDED MODELS INVESTIGATION
+2026-05-13 13:59:58,419 - INFO - ============================================================
+2026-05-13 13:59:58,419 - INFO - Preparing training data...
+2026-05-13 13:59:58,421 - INFO - Training data prepared: 1 images, 1 persons
+2026-05-13 13:59:58,421 - INFO - Label map: {0: 'default'}
+2026-05-13 13:59:58,421 - WARNING - Person 'subject_001' not found — using first label: 'default'
+2026-05-13 13:59:58,421 - INFO - Training models...
+2026-05-13 13:59:58,522 - INFO - Monitoring started - Memory: 90.12MB, CPU: 0.00%
+2026-05-13 13:59:58,537 - INFO - Eigenfaces model trained with 1 samples
+2026-05-13 13:59:58,537 - WARNING - Fisherface skipped: Requires at least 2 different people/labels.
+2026-05-13 13:59:58,537 - WARNING - Fisherface requires at least 2 classes
+2026-05-13 13:59:58,537 - WARNING - Fisherface skipped (needs >= 2 persons in database)
+2026-05-13 13:59:58,567 - INFO - SIFT model trained with 1 classes
+2026-05-13 13:59:58,714 - INFO - ORB model trained with 1 classes
+2026-05-13 13:59:58,714 - INFO - Eigenfaces model trained with 1 samples
+2026-05-13 13:59:58,714 - WARNING - Fisherface skipped: Requires at least 2 different people/labels.
+2026-05-13 13:59:58,714 - WARNING - Fisherface requires at least 2 classes
+2026-05-13 13:59:58,714 - INFO - SIFT model trained with 1 classes
+2026-05-13 13:59:58,730 - INFO - All models trained successfully
+2026-05-13 13:59:58,831 - INFO - Monitoring stopped - Time: 0.31s, Memory: 13.21MB, CPU: 0.00%
+2026-05-13 13:59:58,831 - INFO - Training all models completed in 309.56ms
+2026-05-13 13:59:58,832 - INFO - All models trained successfully
+2026-05-13 14:00:06,922 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-13 14:00:06,922 - INFO - Starting live preview for 3 seconds
+2026-05-13 14:00:10,004 - INFO - Live preview ended
+2026-05-13 14:00:10,317 - INFO - Camera released
+2026-05-13 14:00:10,320 - INFO - Test frame captured successfully
+2026-05-13 14:00:10,320 - INFO - 
+Testing models on different conditions...
+2026-05-13 14:00:10,320 - INFO - ------------------------------------------------------------
+2026-05-13 14:00:10,320 - INFO - 
+Condition: normal
+2026-05-13 14:00:10,320 - INFO - Description: Normal lighting and angle
+2026-05-13 14:00:10,423 - INFO - Monitoring started - Memory: 154.30MB, CPU: 0.00%
+2026-05-13 14:00:10,526 - INFO - Monitoring stopped - Time: 0.10s, Memory: -14.74MB, CPU: 0.00%
+2026-05-13 14:00:10,526 - INFO - Testing eigenfaces on normal completed in 103.00ms
+2026-05-13 14:00:10,629 - INFO - Monitoring started - Memory: 139.56MB, CPU: 0.00%
+2026-05-13 14:00:10,729 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-13 14:00:10,729 - INFO - Testing lbph on normal completed in 101.58ms
+2026-05-13 14:00:10,830 - INFO - Monitoring started - Memory: 139.56MB, CPU: 0.00%
+2026-05-13 14:00:10,830 - WARNING - Model not trained
+2026-05-13 14:00:10,932 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-13 14:00:10,932 - INFO - Testing fisherface on normal completed in 101.09ms
+2026-05-13 14:00:11,033 - INFO - Monitoring started - Memory: 139.56MB, CPU: 0.00%
+2026-05-13 14:00:11,142 - INFO - Monitoring stopped - Time: 0.11s, Memory: 1.95MB, CPU: 0.00%
+2026-05-13 14:00:11,142 - INFO - Testing sift on normal completed in 105.33ms
+2026-05-13 14:00:11,246 - INFO - Monitoring started - Memory: 141.50MB, CPU: 0.00%
+2026-05-13 14:00:11,350 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.02MB, CPU: 0.00%
+2026-05-13 14:00:11,350 - INFO - Testing orb on normal completed in 106.81ms
+2026-05-13 14:00:11,451 - INFO - Monitoring started - Memory: 141.53MB, CPU: 0.00%
+2026-05-13 14:00:11,451 - WARNING - Model not trained
+2026-05-13 14:00:11,557 - INFO - Monitoring stopped - Time: 0.11s, Memory: -3.59MB, CPU: 0.00%
+2026-05-13 14:00:11,557 - INFO - Testing ensemble on normal completed in 105.32ms
+2026-05-13 14:00:11,557 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-13 14:00:11,557 - INFO -   lbph: 0.00% [WRONG]
+2026-05-13 14:00:11,557 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-13 14:00:11,557 - INFO -   sift: 3.28% [OK]
+2026-05-13 14:00:11,557 - INFO -   orb: 110.00% [OK]
+2026-05-13 14:00:11,557 - INFO -   ensemble: 1.64% [WRONG]
+2026-05-13 14:00:11,557 - INFO - 
+Condition: low_light
+2026-05-13 14:00:11,557 - INFO - Description: Low lighting conditions
+2026-05-13 14:00:11,681 - INFO - Low light preprocessing completed
+2026-05-13 14:00:11,787 - INFO - Monitoring started - Memory: 145.71MB, CPU: 0.00%
+2026-05-13 14:00:11,888 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.07MB, CPU: 0.00%
+2026-05-13 14:00:11,888 - INFO - Testing eigenfaces on low_light completed in 106.19ms
+2026-05-13 14:00:11,989 - INFO - Monitoring started - Memory: 145.78MB, CPU: 0.00%
+2026-05-13 14:00:12,090 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-13 14:00:12,090 - INFO - Testing lbph on low_light completed in 101.09ms
+2026-05-13 14:00:12,191 - INFO - Monitoring started - Memory: 145.78MB, CPU: 0.00%
+2026-05-13 14:00:12,191 - WARNING - Model not trained
+2026-05-13 14:00:12,292 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-13 14:00:12,292 - INFO - Testing fisherface on low_light completed in 101.34ms
+2026-05-13 14:00:12,394 - INFO - Monitoring started - Memory: 145.78MB, CPU: 0.00%
+2026-05-13 14:00:12,500 - INFO - Monitoring stopped - Time: 0.11s, Memory: 1.66MB, CPU: 0.00%
+2026-05-13 14:00:12,500 - INFO - Testing sift on low_light completed in 105.10ms
+2026-05-13 14:00:12,601 - INFO - Monitoring started - Memory: 147.44MB, CPU: 0.00%
+2026-05-13 14:00:12,703 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.01MB, CPU: 0.00%
+2026-05-13 14:00:12,703 - INFO - Testing orb on low_light completed in 101.10ms
+2026-05-13 14:00:12,805 - INFO - Monitoring started - Memory: 147.45MB, CPU: 0.00%
+2026-05-13 14:00:12,805 - WARNING - Model not trained
+2026-05-13 14:00:12,910 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.05MB, CPU: 0.00%
+2026-05-13 14:00:12,910 - INFO - Testing ensemble on low_light completed in 105.26ms
+2026-05-13 14:00:12,910 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-13 14:00:12,910 - INFO -   lbph: 0.00% [WRONG]
+2026-05-13 14:00:12,910 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-13 14:00:12,910 - INFO -   sift: 1.64% [OK]
+2026-05-13 14:00:12,910 - INFO -   orb: 210.00% [OK]
+2026-05-13 14:00:12,910 - INFO -   ensemble: 0.82% [WRONG]
+2026-05-13 14:00:12,910 - INFO - 
+Condition: motion_blur
+2026-05-13 14:00:12,910 - INFO - Description: Motion blur simulation
+2026-05-13 14:00:12,925 - INFO - Motion blur preprocessing completed
+2026-05-13 14:00:13,028 - INFO - Monitoring started - Memory: 148.54MB, CPU: 0.00%
+2026-05-13 14:00:13,129 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-13 14:00:13,129 - INFO - Testing eigenfaces on motion_blur completed in 102.53ms
+2026-05-13 14:00:13,230 - INFO - Monitoring started - Memory: 148.54MB, CPU: 0.00%
+2026-05-13 14:00:13,331 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-13 14:00:13,331 - INFO - Testing lbph on motion_blur completed in 101.10ms
+2026-05-13 14:00:13,432 - INFO - Monitoring started - Memory: 148.54MB, CPU: 0.00%
+2026-05-13 14:00:13,432 - WARNING - Model not trained
+2026-05-13 14:00:13,533 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-13 14:00:13,533 - INFO - Testing fisherface on motion_blur completed in 101.23ms
+2026-05-13 14:00:13,634 - INFO - Monitoring started - Memory: 148.54MB, CPU: 0.00%
+2026-05-13 14:00:13,737 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.05MB, CPU: 0.00%
+2026-05-13 14:00:13,737 - INFO - Testing sift on motion_blur completed in 100.48ms
+2026-05-13 14:00:13,839 - INFO - Monitoring started - Memory: 148.59MB, CPU: 0.00%
+2026-05-13 14:00:13,941 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-13 14:00:13,941 - INFO - Testing orb on motion_blur completed in 101.37ms
+2026-05-13 14:00:14,042 - INFO - Monitoring started - Memory: 148.59MB, CPU: 0.00%
+2026-05-13 14:00:14,042 - WARNING - Model not trained
+2026-05-13 14:00:14,146 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.00MB, CPU: 0.00%
+2026-05-13 14:00:14,146 - INFO - Testing ensemble on motion_blur completed in 105.04ms
+2026-05-13 14:00:14,146 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-13 14:00:14,146 - INFO -   lbph: 0.00% [WRONG]
+2026-05-13 14:00:14,146 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-13 14:00:14,146 - INFO -   sift: 1.64% [OK]
+2026-05-13 14:00:14,146 - INFO -   orb: 150.00% [OK]
+2026-05-13 14:00:14,146 - INFO -   ensemble: 0.82% [WRONG]
+2026-05-13 14:00:14,146 - INFO - 
+Condition: sensor_noise
+2026-05-13 14:00:14,146 - INFO - Description: High sensor noise simulation
+2026-05-13 14:00:14,154 - ERROR - Non-local means denoising failed: OpenCV(4.13.0) :-1: error: (-5:Bad argument) in function 'fastNlMeansDenoisingColored'
+> Overload resolution failed:
+>  - 'hForColorComponents' is an invalid keyword argument for fastNlMeansDenoisingColored()
+>  - 'hForColorComponents' is an invalid keyword argument for fastNlMeansDenoisingColored()
+
+2026-05-13 14:00:14,154 - INFO - Sensor noise preprocessing completed
+2026-05-13 14:00:14,265 - INFO - Monitoring started - Memory: 148.66MB, CPU: 0.00%
+2026-05-13 14:00:14,368 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.00MB, CPU: 0.00%
+2026-05-13 14:00:14,368 - INFO - Testing eigenfaces on sensor_noise completed in 113.94ms
+2026-05-13 14:00:14,470 - INFO - Monitoring started - Memory: 148.66MB, CPU: 0.00%
+2026-05-13 14:00:14,570 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-13 14:00:14,570 - INFO - Testing lbph on sensor_noise completed in 101.39ms
+2026-05-13 14:00:14,671 - INFO - Monitoring started - Memory: 148.66MB, CPU: 0.00%
+2026-05-13 14:00:14,671 - WARNING - Model not trained
+2026-05-13 14:00:14,772 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-13 14:00:14,772 - INFO - Testing fisherface on sensor_noise completed in 101.04ms
+2026-05-13 14:00:14,873 - INFO - Monitoring started - Memory: 148.66MB, CPU: 0.00%
+2026-05-13 14:00:14,978 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.02MB, CPU: 0.00%
+2026-05-13 14:00:14,978 - INFO - Testing sift on sensor_noise completed in 105.04ms
+2026-05-13 14:00:15,079 - INFO - Monitoring started - Memory: 148.68MB, CPU: 0.00%
+2026-05-13 14:00:15,181 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-13 14:00:15,181 - INFO - Testing orb on sensor_noise completed in 102.31ms
+2026-05-13 14:00:15,282 - INFO - Monitoring started - Memory: 148.68MB, CPU: 0.00%
+2026-05-13 14:00:15,282 - WARNING - Model not trained
+2026-05-13 14:00:15,387 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.00MB, CPU: 0.00%
+2026-05-13 14:00:15,387 - INFO - Testing ensemble on sensor_noise completed in 105.02ms
+2026-05-13 14:00:15,387 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-13 14:00:15,387 - INFO -   lbph: 0.00% [WRONG]
+2026-05-13 14:00:15,387 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-13 14:00:15,387 - INFO -   sift: 3.28% [OK]
+2026-05-13 14:00:15,388 - INFO -   orb: 100.00% [OK]
+2026-05-13 14:00:15,388 - INFO -   ensemble: 1.64% [WRONG]
+2026-05-13 14:00:15,388 - INFO - 
+Condition: extreme_angle
+2026-05-13 14:00:15,388 - INFO - Description: Extreme face angle
+2026-05-13 14:00:15,399 - INFO - Extreme angle preprocessing completed
+2026-05-13 14:00:15,510 - INFO - Monitoring started - Memory: 148.76MB, CPU: 0.00%
+2026-05-13 14:00:15,612 - INFO - Monitoring stopped - Time: 0.11s, Memory: 0.00MB, CPU: 0.00%
+2026-05-13 14:00:15,612 - INFO - Testing eigenfaces on extreme_angle completed in 111.55ms
+2026-05-13 14:00:15,713 - INFO - Monitoring started - Memory: 148.76MB, CPU: 0.00%
+2026-05-13 14:00:15,814 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-13 14:00:15,814 - INFO - Testing lbph on extreme_angle completed in 100.87ms
+2026-05-13 14:00:15,914 - INFO - Monitoring started - Memory: 148.76MB, CPU: 0.00%
+2026-05-13 14:00:15,914 - WARNING - Model not trained
+2026-05-13 14:00:16,015 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.00MB, CPU: 0.00%
+2026-05-13 14:00:16,016 - INFO - Testing fisherface on extreme_angle completed in 100.83ms
+2026-05-13 14:00:16,117 - INFO - Monitoring started - Memory: 148.76MB, CPU: 0.00%
+2026-05-13 14:00:16,222 - INFO - Monitoring stopped - Time: 0.10s, Memory: -5.11MB, CPU: 0.00%
+2026-05-13 14:00:16,222 - INFO - Testing sift on extreme_angle completed in 104.09ms
+2026-05-13 14:00:16,324 - INFO - Monitoring started - Memory: 143.65MB, CPU: 0.00%
+2026-05-13 14:00:16,426 - INFO - Monitoring stopped - Time: 0.10s, Memory: 0.19MB, CPU: 0.00%
+2026-05-13 14:00:16,426 - INFO - Testing orb on extreme_angle completed in 101.82ms
+2026-05-13 14:00:16,527 - INFO - Monitoring started - Memory: 143.84MB, CPU: 0.00%
+2026-05-13 14:00:16,527 - WARNING - Model not trained
+2026-05-13 14:00:16,633 - INFO - Monitoring stopped - Time: 0.11s, Memory: 2.67MB, CPU: 0.00%
+2026-05-13 14:00:16,633 - INFO - Testing ensemble on extreme_angle completed in 105.90ms
+2026-05-13 14:00:16,633 - INFO -   eigenfaces: 0.00% [WRONG]
+2026-05-13 14:00:16,633 - INFO -   lbph: 0.00% [WRONG]
+2026-05-13 14:00:16,633 - INFO -   fisherface: 0.00% [WRONG]
+2026-05-13 14:00:16,633 - INFO -   sift: 0.00% [WRONG]
+2026-05-13 14:00:16,633 - INFO -   orb: 110.00% [OK]
+2026-05-13 14:00:16,633 - INFO -   ensemble: 0.00% [WRONG]
+2026-05-13 14:00:16,634 - INFO - 
+============================================================
+2026-05-13 14:00:16,634 - INFO - INVESTIGATION COMPLETED
+2026-05-13 14:00:16,634 - INFO - ============================================================
+2026-05-13 14:00:16,634 - INFO - Results saved to C:\Users\ASUS\Desktop\Statistics\results\models_investigation_20260513_140016.json
+2026-05-13 14:00:16,639 - INFO - Camera released
+2026-05-13 14:00:16,641 - INFO - Models pipeline completed
+2026-05-13 14:08:10,907 - INFO - Application started
+2026-05-13 14:08:13,073 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-13 14:08:13,073 - INFO -   Shape: (178, 178, 3)
+2026-05-13 14:08:13,073 - INFO - Training data prepared: 1 images, 1 persons
+2026-05-13 14:08:13,080 - INFO - Training all models on reference data...
+2026-05-13 14:08:13,082 - INFO - Eigenfaces model trained with 1 samples
+2026-05-13 14:08:13,084 - WARNING - Fisherface skipped: Requires at least 2 different people/labels.
+2026-05-13 14:08:13,084 - WARNING - Fisherface requires at least 2 classes
+2026-05-13 14:08:13,087 - WARNING - Fisherface skipped (needs >= 2 persons in database)
+2026-05-13 14:08:13,095 - INFO - SIFT model trained with 1 classes
+2026-05-13 14:08:13,194 - INFO - ORB model trained with 1 classes
+2026-05-13 14:08:13,194 - INFO - Eigenfaces model trained with 1 samples
+2026-05-13 14:08:13,194 - WARNING - Fisherface skipped: Requires at least 2 different people/labels.
+2026-05-13 14:08:13,195 - WARNING - Fisherface requires at least 2 classes
+2026-05-13 14:08:13,199 - INFO - SIFT model trained with 1 classes
+2026-05-13 14:08:13,199 - INFO - All models trained successfully
+2026-05-13 14:08:13,199 - INFO - [OK] All models trained successfully
+2026-05-13 14:08:13,199 - INFO - 
+======================================================================
+2026-05-13 14:08:13,199 - INFO - CAPTURING YOUR FACE
+2026-05-13 14:08:13,199 - INFO - ======================================================================
+2026-05-13 14:08:13,199 - INFO - Position your face in front of the camera...
+2026-05-13 14:08:13,199 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-13 14:08:20,979 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-13 14:08:23,852 - INFO - [OK] Face captured!
+2026-05-13 14:08:24,226 - INFO - Camera released
+2026-05-13 14:08:24,229 - INFO - Camera released
+2026-05-13 14:08:24,236 - WARNING - Error testing lbph: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2026-05-13 14:08:24,237 - WARNING - Model not trained
+2026-05-13 14:08:24,251 - WARNING - Error testing fisherface: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2026-05-13 14:08:24,263 - WARNING - Error testing sift: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2026-05-13 14:08:24,269 - WARNING - Model not trained
+2026-05-13 14:08:24,283 - INFO - Normal preprocessing completed
+2026-05-13 14:08:24,287 - WARNING - Error testing lbph: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2026-05-13 14:08:24,290 - WARNING - Model not trained
+2026-05-13 14:08:24,290 - WARNING - Error testing fisherface: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2026-05-13 14:08:24,301 - WARNING - Error testing sift: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2026-05-13 14:08:24,301 - WARNING - Model not trained
+2026-05-13 14:08:24,315 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\Statistics\captured\20260513_140813\comparison_results.json
+2026-05-13 14:08:24,315 - INFO - Models pipeline completed
+2026-05-13 14:14:15,378 - INFO - Application started
+2026-05-13 14:14:23,456 - INFO - 
+======================================================================
+2026-05-13 14:14:23,456 - INFO - CAPTURING YOUR FACE - SHARED FOR BOTH INVESTIGATIONS
+2026-05-13 14:14:23,456 - INFO - ======================================================================
+2026-05-13 14:14:23,456 - INFO - Position your face in front of the camera...
+2026-05-13 14:14:23,456 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-13 14:14:33,372 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-13 14:14:44,502 - INFO - [OK] Face captured!
+2026-05-13 14:14:44,845 - INFO - Camera released
+2026-05-13 14:14:44,847 - INFO - Camera released
+2026-05-13 14:14:45,136 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-13 14:14:45,137 - INFO -   Shape: (178, 178, 3)
+2026-05-13 14:14:45,146 - INFO - [OK] Saved BEFORE: C:\Users\ASUS\Desktop\Statistics\captured\20260513_141423\preprocessing\01_before_preprocessing.jpg
+2026-05-13 14:14:45,156 - INFO - Normal preprocessing completed
+2026-05-13 14:14:45,165 - INFO - [OK] Saved AFTER: C:\Users\ASUS\Desktop\Statistics\captured\20260513_141423\preprocessing\02_after_preprocessing.jpg
+2026-05-13 14:14:45,175 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\Statistics\captured\20260513_141423\preprocessing\comparison_results.json
+2026-05-13 14:14:45,189 - INFO - [OK] Preprocessing results loaded
+2026-05-13 14:14:45,210 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-13 14:14:45,210 - INFO -   Shape: (178, 178, 3)
+2026-05-13 14:14:45,210 - INFO - Training data prepared: 1 images, 1 persons
+2026-05-13 14:14:45,216 - INFO - Training data prepared: 1 images
+2026-05-13 14:14:45,216 - INFO - Training all models on reference data...
+2026-05-13 14:14:45,216 - ERROR - Model training failed: module 'cv2.face' has no attribute 'EigenFaceRecognizer_create'
+2026-05-13 14:14:45,216 - ERROR - Failed to train models
+2026-05-13 14:14:45,217 - ERROR - Unified investigation failed
+2026-05-13 14:17:18,180 - INFO - 
+======================================================================
+2026-05-13 14:17:18,180 - INFO - CAPTURING YOUR FACE - SHARED FOR BOTH INVESTIGATIONS
+2026-05-13 14:17:18,180 - INFO - ======================================================================
+2026-05-13 14:17:18,180 - INFO - Position your face in front of the camera...
+2026-05-13 14:17:18,180 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-13 14:17:27,177 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-13 14:18:10,767 - INFO - [OK] Face captured!
+2026-05-13 14:18:11,081 - INFO - Camera released
+2026-05-13 14:18:11,084 - INFO - Camera released
+2026-05-13 14:18:11,088 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-13 14:18:11,093 - INFO -   Shape: (178, 178, 3)
+2026-05-13 14:18:11,109 - INFO - [OK] Saved BEFORE: C:\Users\ASUS\Desktop\Statistics\captured\20260513_141718\preprocessing\01_before_preprocessing.jpg
+2026-05-13 14:18:11,116 - INFO - Normal preprocessing completed
+2026-05-13 14:18:11,131 - INFO - [OK] Saved AFTER: C:\Users\ASUS\Desktop\Statistics\captured\20260513_141718\preprocessing\02_after_preprocessing.jpg
+2026-05-13 14:18:11,156 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\Statistics\captured\20260513_141718\preprocessing\comparison_results.json
+2026-05-13 14:18:11,185 - INFO - [OK] Preprocessing results loaded
+2026-05-13 14:18:11,187 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-13 14:18:11,187 - INFO -   Shape: (178, 178, 3)
+2026-05-13 14:18:11,189 - INFO - Training data prepared: 1 images, 1 persons
+2026-05-13 14:18:11,189 - INFO - Training data prepared: 1 images
+2026-05-13 14:18:11,189 - INFO - Training all models on reference data...
+2026-05-13 14:18:11,189 - ERROR - Model training failed: module 'cv2.face' has no attribute 'EigenFaceRecognizer_create'
+2026-05-13 14:18:11,189 - ERROR - Failed to train models
+2026-05-13 14:18:11,189 - ERROR - Unified investigation failed
+2026-05-13 14:18:28,114 - INFO - Application closed
+2026-05-15 15:21:32,826 - INFO - Application started
+2026-05-15 15:21:40,863 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-15 15:21:40,863 - INFO -   Shape: (178, 178, 3)
+2026-05-15 15:21:40,863 - INFO - 
+======================================================================
+2026-05-15 15:21:40,863 - INFO - CAPTURING YOUR FACE
+2026-05-15 15:21:40,863 - INFO - ======================================================================
+2026-05-15 15:21:40,863 - INFO - Position your face in front of the camera...
+2026-05-15 15:21:40,863 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-15 15:21:50,736 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-15 15:21:54,508 - INFO - [OK] Face captured!
+2026-05-15 15:21:54,909 - INFO - Camera released
+2026-05-15 15:21:54,909 - INFO - Camera released
+2026-05-15 15:21:54,949 - INFO - Normal preprocessing completed
+2026-05-15 15:21:54,985 - INFO - Displaying comparison. Press any key to close...
+2026-05-15 15:21:57,540 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\Statistics\captured\20260515_152140\comparison_results.json
+2026-05-15 15:21:57,560 - INFO - Preprocessing pipeline completed
+2026-05-15 15:23:49,413 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-15 15:23:49,413 - INFO -   Shape: (178, 178, 3)
+2026-05-15 15:23:49,413 - INFO - 
+======================================================================
+2026-05-15 15:23:49,413 - INFO - CAPTURING YOUR FACE
+2026-05-15 15:23:49,413 - INFO - ======================================================================
+2026-05-15 15:23:49,413 - INFO - Position your face in front of the camera...
+2026-05-15 15:23:49,413 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-15 15:23:57,460 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-15 15:24:02,465 - INFO - [OK] Face captured!
+2026-05-15 15:24:02,836 - INFO - Camera released
+2026-05-15 15:24:02,839 - INFO - Camera released
+2026-05-15 15:24:02,847 - INFO - Normal preprocessing completed
+2026-05-15 15:24:02,882 - INFO - Displaying comparison. Press any key to close...
+2026-05-15 15:24:05,197 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\Statistics\captured\20260515_152349\comparison_results.json
+2026-05-15 15:24:05,210 - INFO - Preprocessing pipeline completed
+2026-05-15 15:30:56,474 - INFO - Application closed
+2026-05-15 15:42:46,144 - INFO - Application started
+2026-05-15 15:42:57,924 - ERROR - Models pipeline error: No module named 'pipelines.run_recommended_models'
+2026-05-15 15:43:46,884 - INFO - 
+======================================================================
+2026-05-15 15:43:46,884 - INFO - CAPTURING YOUR FACE - SHARED FOR BOTH INVESTIGATIONS
+2026-05-15 15:43:46,884 - INFO - ======================================================================
+2026-05-15 15:43:46,885 - INFO - Position your face in front of the camera...
+2026-05-15 15:43:46,885 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-15 15:43:55,162 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-15 15:44:06,834 - INFO - [OK] Face captured!
+2026-05-15 15:44:07,188 - INFO - Camera released
+2026-05-15 15:44:07,191 - INFO - Camera released
+2026-05-15 15:44:07,690 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-15 15:44:07,690 - INFO -   Shape: (178, 178, 3)
+2026-05-15 15:44:07,690 - INFO - [OK] Saved BEFORE: C:\Users\ASUS\Desktop\Statistics\captured\20260515_154346\preprocessing\01_before_preprocessing.jpg
+2026-05-15 15:44:07,704 - INFO - Normal preprocessing completed
+2026-05-15 15:44:07,710 - INFO - [OK] Saved AFTER: C:\Users\ASUS\Desktop\Statistics\captured\20260515_154346\preprocessing\02_after_preprocessing.jpg
+2026-05-15 15:44:07,718 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\Statistics\captured\20260515_154346\preprocessing\comparison_results.json
+2026-05-15 15:44:07,729 - INFO - [OK] Preprocessing results loaded
+2026-05-15 15:44:07,730 - ERROR - Models error: No module named 'pipelines.run_recommended_models'
+2026-05-15 15:44:07,732 - ERROR - Unified investigation failed
+2026-05-15 15:46:34,228 - INFO - Application closed
+2026-05-15 16:22:25,615 - INFO - Application started
+2026-05-15 16:28:13,332 - INFO - Application started
+2026-05-15 16:28:20,513 - ERROR - Preprocessing pipeline error: numpy.core.multiarray failed to import
+2026-05-15 16:28:32,155 - INFO - Application started
+2026-05-15 16:28:46,718 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\Statistics\database\reference_images\sample_person.png
+2026-05-15 16:28:46,718 - INFO -   Shape: (178, 178, 3)
+2026-05-15 16:28:46,718 - INFO - 
+======================================================================
+2026-05-15 16:28:46,718 - INFO - CAPTURING YOUR FACE
+2026-05-15 16:28:46,718 - INFO - ======================================================================
+2026-05-15 16:28:46,718 - INFO - Position your face in front of the camera...
+2026-05-15 16:28:46,718 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-15 16:28:54,805 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-15 16:28:59,551 - INFO - [OK] Face captured!
+2026-05-15 16:28:59,896 - INFO - Camera released
+2026-05-15 16:28:59,899 - INFO - Camera released
+2026-05-15 16:28:59,910 - INFO - Normal preprocessing completed
+2026-05-15 16:28:59,950 - INFO - Displaying comparison. Press any key to close...
+2026-05-15 16:29:03,707 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\Statistics\captured\20260515_162846\comparison_results.json
+2026-05-15 16:29:03,720 - INFO - Preprocessing pipeline completed
+2026-05-15 22:57:02,166 - INFO - Application closed
+2026-05-15 23:27:04,726 - INFO - Application started
+2026-05-15 23:27:30,042 - INFO - Application closed
+2026-05-15 23:28:14,165 - INFO - Application started
+2026-05-15 23:28:26,477 - ERROR - Statistical analysis error: No module named 'sklearn'
+2026-05-15 23:33:06,015 - INFO - Application closed
+2026-05-15 23:33:09,262 - INFO - Application started
+2026-05-15 23:33:12,849 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\system testing simplified\database\reference_images\sample_person.png
+2026-05-15 23:33:12,849 - INFO -   Shape: (178, 178, 3)
+2026-05-15 23:33:12,849 - INFO - 
+======================================================================
+2026-05-15 23:33:12,849 - INFO - CAPTURING YOUR FACE
+2026-05-15 23:33:12,849 - INFO - ======================================================================
+2026-05-15 23:33:12,849 - INFO - Position your face in front of the camera...
+2026-05-15 23:33:12,849 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-15 23:33:21,072 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-15 23:33:25,648 - INFO - [OK] Face captured!
+2026-05-15 23:33:26,047 - INFO - Camera released
+2026-05-15 23:33:26,050 - INFO - Camera released
+2026-05-15 23:33:26,072 - INFO - Normal preprocessing completed
+2026-05-15 23:33:26,104 - INFO - Displaying comparison. Press any key to close...
+2026-05-15 23:33:30,489 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\system testing simplified\captured\20260515_233312\comparison_results.json
+2026-05-15 23:33:30,505 - INFO - Preprocessing pipeline completed
+2026-05-15 23:35:38,872 - INFO - Application closed
+2026-05-15 23:35:41,044 - INFO - Application started
+2026-05-15 23:38:35,018 - INFO - Application closed
+2026-05-15 23:38:53,665 - INFO - Application started
+2026-05-15 23:57:34,178 - INFO - Application closed
+2026-05-15 23:57:53,299 - INFO - Application started
+2026-05-15 23:57:57,246 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\system testing simplified\database\reference_images\sample_person.png
+2026-05-15 23:57:57,246 - INFO -   Shape: (178, 178, 3)
+2026-05-15 23:57:57,246 - INFO - 
+======================================================================
+2026-05-15 23:57:57,246 - INFO - CAPTURING YOUR FACE
+2026-05-15 23:57:57,246 - INFO - ======================================================================
+2026-05-15 23:57:57,246 - INFO - Position your face in front of the camera...
+2026-05-15 23:57:57,246 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-15 23:58:06,674 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-15 23:58:11,666 - INFO - [OK] Face captured!
+2026-05-15 23:58:12,023 - INFO - Camera released
+2026-05-15 23:58:12,026 - INFO - Camera released
+2026-05-15 23:58:12,196 - INFO - SSIM-Optimized Normal preprocessing completed
+2026-05-15 23:58:12,227 - INFO - Displaying comparison. Press any key to close...
+2026-05-15 23:58:16,584 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\system testing simplified\captured\20260515_235757\comparison_results.json
+2026-05-15 23:58:16,607 - INFO - Preprocessing pipeline completed
+2026-05-16 00:27:42,474 - INFO - Application closed
+2026-05-16 00:36:46,128 - INFO - Application started
+2026-05-16 00:36:48,288 - ERROR - Sample face not found at C:\Users\ASUS\Desktop\system testing simplified\database\reference_images\sample_person.png
+2026-05-16 00:36:48,288 - ERROR - Preprocessing pipeline failed
+2026-05-16 00:37:18,879 - ERROR - Sample face not found at C:\Users\ASUS\Desktop\system testing simplified\database\reference_images\sample_person.png
+2026-05-16 00:37:18,879 - ERROR - Preprocessing pipeline failed
+2026-05-16 00:37:22,143 - INFO - Application closed
+2026-05-16 00:37:24,082 - INFO - Application started
+2026-05-16 00:37:25,424 - ERROR - Sample face not found at C:\Users\ASUS\Desktop\system testing simplified\database\reference_images\reference_image2.png
+2026-05-16 00:37:25,424 - ERROR - Preprocessing pipeline failed
+2026-05-16 00:37:44,069 - ERROR - Sample face not found at C:\Users\ASUS\Desktop\system testing simplified\database\reference_images\reference_image2.png
+2026-05-16 00:37:44,069 - ERROR - Preprocessing pipeline failed
+2026-05-16 00:37:49,419 - INFO - Application closed
+2026-05-16 00:37:51,234 - INFO - Application started
+2026-05-16 00:37:52,468 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\system testing simplified\database\reference_images\reference_image2.jpg
+2026-05-16 00:37:52,468 - INFO -   Shape: (350, 525, 3)
+2026-05-16 00:37:52,468 - INFO - 
+======================================================================
+2026-05-16 00:37:52,468 - INFO - CAPTURING YOUR FACE
+2026-05-16 00:37:52,468 - INFO - ======================================================================
+2026-05-16 00:37:52,468 - INFO - Position your face in front of the camera...
+2026-05-16 00:37:52,481 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-16 00:38:00,516 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-16 00:38:06,038 - INFO - [OK] Face captured!
+2026-05-16 00:38:06,395 - INFO - Camera released
+2026-05-16 00:38:06,395 - INFO - Camera released
+2026-05-16 00:38:06,711 - INFO - SSIM-Optimized Normal preprocessing completed
+2026-05-16 00:38:06,807 - INFO - Displaying comparison. Press any key to close...
+2026-05-16 00:38:09,483 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\system testing simplified\captured\20260516_003752\comparison_results.json
+2026-05-16 00:38:09,512 - INFO - Preprocessing pipeline completed
+2026-05-16 00:41:57,609 - INFO - Application closed
+2026-05-16 00:57:07,814 - INFO - Application started
+2026-05-16 00:57:10,886 - ERROR - Sample face not found at C:\Users\ASUS\Desktop\system testing simplified\database\reference_images\sample_person.png
+2026-05-16 00:57:10,886 - ERROR - Preprocessing pipeline failed
+2026-05-16 00:57:31,396 - INFO - Application closed
+2026-05-16 00:57:33,429 - INFO - Application started
+2026-05-16 00:57:35,250 - ERROR - Sample face not found at C:\Users\ASUS\Desktop\system testing simplified\database\reference_images\sample_person.png
+2026-05-16 00:57:35,250 - ERROR - Preprocessing pipeline failed
+2026-05-16 00:57:50,303 - INFO - Application started
+2026-05-16 00:57:52,158 - ERROR - Sample face not found at C:\Users\ASUS\Desktop\system testing simplified\database\reference_images\sample_person.png
+2026-05-16 00:57:52,158 - ERROR - Preprocessing pipeline failed
+2026-05-16 00:58:08,560 - INFO - Application closed
+2026-05-16 00:58:10,208 - INFO - Application started
+2026-05-16 00:58:12,077 - ERROR - Sample face not found at C:\Users\ASUS\Desktop\system testing simplified\database\reference_images\sample_person.png
+2026-05-16 00:58:12,077 - ERROR - Preprocessing pipeline failed
+2026-05-16 00:58:50,264 - INFO - Application closed
+2026-05-16 00:58:52,899 - INFO - Application started
+2026-05-16 00:58:55,654 - ERROR - Sample face not found at C:\Users\ASUS\Desktop\system testing simplified\database\reference_images\sample_person.png
+2026-05-16 00:58:55,654 - ERROR - Preprocessing pipeline failed
+2026-05-16 00:59:36,818 - ERROR - Sample face not found at C:\Users\ASUS\Desktop\system testing simplified\database\reference_images\sample_person.png
+2026-05-16 00:59:36,818 - ERROR - Preprocessing pipeline failed
+2026-05-16 00:59:39,988 - INFO - Application closed
+2026-05-16 00:59:42,417 - INFO - Application started
+2026-05-16 00:59:43,810 - INFO - [OK] Loaded reference face: C:\Users\ASUS\Desktop\system testing simplified\database\reference_images\reference_image1.png
+2026-05-16 00:59:43,810 - INFO -   Shape: (178, 178, 3)
+2026-05-16 00:59:43,810 - INFO - 
+======================================================================
+2026-05-16 00:59:43,810 - INFO - CAPTURING YOUR FACE
+2026-05-16 00:59:43,810 - INFO - ======================================================================
+2026-05-16 00:59:43,810 - INFO - Position your face in front of the camera...
+2026-05-16 00:59:43,810 - INFO - Press SPACE to capture, ESC to cancel
+2026-05-16 00:59:51,933 - INFO - Camera initialized: 640x480 @ 30fps
+2026-05-16 00:59:54,254 - INFO - [OK] Face captured!
+2026-05-16 00:59:54,593 - INFO - Camera released
+2026-05-16 00:59:54,605 - INFO - Camera released
+2026-05-16 00:59:54,767 - INFO - SSIM-Optimized Normal preprocessing completed
+2026-05-16 00:59:54,805 - INFO - Displaying comparison. Press any key to close...
+2026-05-16 00:59:56,724 - INFO - [OK] Results saved: C:\Users\ASUS\Desktop\system testing simplified\captured\20260516_005943\comparison_results.json
+2026-05-16 00:59:56,739 - INFO - Preprocessing pipeline completed

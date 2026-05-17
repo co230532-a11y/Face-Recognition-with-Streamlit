@@ -1,0 +1,41 @@
+{
+  "timestamp": "20260513_155000",
+  "folder": "C:\\Users\\ASUS\\Desktop\\Statistics\\captured\\20260513_155000",
+  "before": {
+    "raw_metrics": {
+      "ssim": 0.0283,
+      "cosine_similarity": 0.0756,
+      "euclidean_distance": 0.2634
+    },
+    "accuracy": {
+      "ssim_percent": 2.83,
+      "cosine_percent": 53.78,
+      "euclidean_percent": 73.66,
+      "combined_accuracy": 43.42
+    }
+  },
+  "after": {
+    "raw_metrics": {
+      "ssim": 0.0326,
+      "cosine_similarity": 0.2076,
+      "euclidean_distance": 0.2483
+    },
+    "accuracy": {
+      "ssim_percent": 3.26,
+      "cosine_percent": 60.38,
+      "euclidean_percent": 75.17,
+      "combined_accuracy": 46.27
+    }
+  },
+  "improvement": {
+    "ssim_change": 0.43,
+    "cosine_change": 6.6,
+    "euclidean_change": 1.51,
+    "combined_accuracy_change": 2.85
+  },
+  "files": {
+    "reference": "database/reference_images/sample_person.png",
+    "before": "01_before_preprocessing.jpg",
+    "after": "02_after_preprocessing.jpg"
+  }
+}
